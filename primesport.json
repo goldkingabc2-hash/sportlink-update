@@ -1,93 +1,110 @@
 {
   "HeaderInfo": {
     "PlaylistName": "Prime Video Free Sports",
-    "LastUpdate": "06:02 PM 27-09-2026",
+    "LastUpdate": "11:02 PM 27-09-2026",
     "Telegram": "https://t.me/livesportsplay",
     "Owner": "Md Sohanur Rahman Hady"
   },
   "Stats": {
-    "LiveCount": 5,
+    "LiveCount": 6,
     "UpcomingCount": 0
   },
   "Matches": [
     {
-      "match_id": "B0HG4TFJF6",
-      "title": "Australia v South Africa",
-      "synopsis": "Australia v South Africa",
+      "match_id": "B0HJD5F9FK",
+      "title": "Denmark vs. Wales",
+      "synopsis": "Denmark vs. Wales",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df003b20-09bc-4563-964c-74f6dc1e5d1b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HG4TFJF6",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1016e6d4-a3c3-471d-a392-f440ae2d5511/5/BOXART-16X9/en-US/1920x1080._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJD5F9FK",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd"
       },
-      "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+      "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
     },
     {
-      "match_id": "B0HH9T2ZTM",
-      "title": "BJK Cup Finals: Final",
-      "synopsis": "BJK Cup Finals: Final",
+      "match_id": "B0HJVZ6B7D",
+      "title": "Albany Regional, Qualifying",
+      "synopsis": "Albany Regional, Qualifying",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3669c72a-25b3-46b7-9330-00abb08820dd/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HH9T2ZTM",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8991915d-a051-4704-9cb8-48b44ffa117c/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJVZ6B7D",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd"
+        "Original Server": "https://ABBJKKMAAAAAAAAMCVLML5GHNEYZB.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqzOh0BhpquSH0A2pjbG91ZGZyb250Angpc3NpZDphYjZkMzg4ZS03YzBkLTRmZTItYjBlMC1mZGI2YWE1MGQ2M2MZATihBaECeDMveW9mOHk4enE5cC9vdXQvdjEvNjkyMzVlZjY0ODZiNDhlMGJiZWVhMDJiMjBmYWFjM2UZATyBYlVTWCA_NV7I5y0c1jBdRbIy_z3A7icxKdS5Q_JJ7pOMzP9mGQ/PDX/f1d5711e7938446f8ba77aa4cace74fe/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yof8y8zq9p/out/v1/69235ef6486b48e0bbeea02b20faac3e/d5331b94-2238-4f3a-9c1b-a4a6ec745de5-cenc.mpd?aws.sessionId=621eb4d9-39d6-4945-952b-bf0a787eb8aa"
       },
-      "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+      "drm_key": "08c7d255bdb53b54f38735c2529492f9:7eafb46d7206f2cb19ef0751e3466a5a"
     },
     {
-      "match_id": "B0HKFTP6BZ",
-      "title": "Athletics - Men & Women - Finals",
-      "synopsis": "Athletics - Men & Women - Finals",
+      "match_id": "B0HKZHFJGY",
+      "title": "Chelsea vs. Arsenal",
+      "synopsis": "Chelsea vs. Arsenal",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c0eaef33-8643-42c6-b7dc-12a61b4c4267/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKFTP6BZ",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3e2fdd48-7e49-477d-a2e6-78ae25814b2c/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HKZHFJGY",
       "is_free": false,
       "stream_url": {
-        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd"
       },
-      "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+      "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
     },
     {
-      "match_id": "B0HKM4TG8N",
-      "title": "FIM MotoJunior World Championship-Aragon - Stock Race",
-      "synopsis": "FIM MotoJunior World Championship-Aragon - Stock Race",
+      "match_id": "B0HHXQWDL6",
+      "title": "MEAC: South Carolina State at Delaware State",
+      "synopsis": "MEAC: South Carolina State at Delaware State",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e649af04-0d8c-4a27-9f3d-603db37ccb76/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HKM4TG8N",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c62e38ca-de6d-4c5f-8ddf-6c036da15ed9/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHXQWDL6",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://a153live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqzLc8BhpquPC8A2Zha2FtYWkCeClzc2lkOjk1NDNjY2UwLWQ4ZmMtNDk4Ni04MjUwLWQ3NzNjMTkxM2E1MxkBOKEFoQJ4My9rdXBxaHFrbGthL291dC92MS84MTk3YzhlMDU1Yzk0YTg2ODYyMzY1M2FjNTVjMTBiZhkBPIFiVVNYIF7apipxk5-UQIz1PhNELQeOHA5knrEBvW1ozMQDY6oL/CMH/c1018b7fd2574de2b5dbed71665bc922/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/kupqhqklka/out/v1/8197c8e055c94a868623653ac55c10bf/e9af4457-a10f-4cd0-b749-281173324715-cenc.mpd?aws.sessionId=da27b87f-29f5-4ffb-8164-868e23738a76"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd"
       },
-      "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+      "drm_key": "6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221"
     },
     {
-      "match_id": "B0HH1H23XR",
-      "title": "Sep 27 - PTT Essen",
-      "synopsis": "Sep 27 - PTT Essen",
+      "match_id": "B0HJVXL4YM",
+      "title": "Season 2026",
+      "synopsis": "Season 2026",
       "status": "LIVE",
       "time": "LIVE NOW",
-      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f265dd15-da57-41a0-bdf3-6e4ad711a50d/4/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
-      "match_url": "https://www.amazon.com/gp/video/detail/B0HH1H23XR",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ee436035-386b-4b7f-af10-b0ad0f9c3163/6/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HJVXL4YM",
       "is_free": false,
       "stream_url": {
-        "Original Server": "https://live-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqzLc-BhpquPC-A2ZmYXN0bHkCeClzc2lkOjc4OGViMzUzLWE1YTEtNDdkNi1iM2M3LTM2MmVkOTc5YWMxYxkBOKEFoQJ4My83aTFxNGRjeWU4L291dC92MS9iMDgwZGQxMTQ5ZmY0MDgwYjYzMjQwZmM3MDQ0MGFhNBkBPIFiVVNYIJdIaXyr7VOJ1x3rxcKXLxv8w63_c8_oUBKHUYUSNqr5/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/7i1q4dcye8/out/v1/b080dd1149ff4080b63240fc70440aa4/9f33849a-1437-4552-902f-ef5f902f46ee-cenc.mpd"
+        "Fastly Server": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Amazon Server": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 1": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd",
+        "Cloudfront Server 2": "https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd"
       },
-      "drm_key": "f8af98d66e0dc7a94667dd45b3505221:9cae756605e5cc71e040b178634356f3"
+      "drm_key": "dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b"
+    },
+    {
+      "match_id": "B0HHR64VGR",
+      "title": "Sep 27 - PTT College Station",
+      "synopsis": "Sep 27 - PTT College Station",
+      "status": "LIVE",
+      "time": "LIVE NOW",
+      "cover_image": "https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.72102f3b-038e-4234-9322-dc7017635f10/6/BOXART-16X9/en-US._UR1920,1080_SX624_FMpng_.png",
+      "match_url": "https://www.amazon.com/gp/video/detail/B0HHR64VGR",
+      "is_free": false,
+      "stream_url": {
+        "Original Server": "https://a164live-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqzOFqBhpquRrqA2Zha2FtYWkCeClzc2lkOjI0Y2QyZDA0LTI2MDAtNGFmZS04NjViLTIwNmFmZjI2ZGRjORkBOKEFoQJ4My90ZGNtOHpnYnM2L291dC92MS81YmNkYmMxYWEzNTE0YTE4OWNiMmEyMGRhNjBkNzE0NRkBPIFiVVNYIAKJ6adq9_iMEOjYtYbmbRrzKVFrexosC1QVbL89VSXJ/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tdcm8zgbs6/out/v1/5bcdbc1aa3514a189cb2a20da60d7145/75bac7d9-1a38-41ee-bb57-8840c650c84d-cenc.mpd"
+      },
+      "drm_key": "bb351da6d1d41d194d035a3640f15f8a:96c54432879408d4f51db58a43ab6e56"
     }
   ]
 }
