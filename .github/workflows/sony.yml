@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['sony.py', 'sony3.py']
+    paths: ['script/sony.py', 'script/sony3.py']
 
 # Do NOT cancel in progress — a mid-push cancel corrupts state.
 concurrency:

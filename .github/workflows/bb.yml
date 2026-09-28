@@ -7,7 +7,7 @@ on:
     branches:
       - main
     paths:
-      - 'sports.py'
+      - 'script/sports.py'
 jobs:
   update-playlist:
     runs-on: ubuntu-latest

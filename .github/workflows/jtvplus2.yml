@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - 'jtvplus2.py'
+      - 'script/jtvplus2.py'
 
 jobs:
   update-playlist:

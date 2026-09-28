@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - 'jtv.py'
+      - 'script/jtv.py'
 
 concurrency:
   group: update-playlist

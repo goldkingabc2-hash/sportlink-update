@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - 'star4.py'
+      - 'script/star4.py'
 
 concurrency:
   group: update-playlist

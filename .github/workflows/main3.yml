@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - 'jtv3.py'
+      - 'script/jtv3.py'
 
 jobs:
   update-playlist:

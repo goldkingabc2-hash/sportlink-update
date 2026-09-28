@@ -7,7 +7,7 @@ on:
     branches:
       - main
     paths:
-      - 'voot.py'
+      - 'script/voot.py'
 jobs:
   update-playlist:
     runs-on: ubuntu-latest

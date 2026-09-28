@@ -7,7 +7,7 @@ on:
     branches:
       - main
     paths:
-      - 'jtvplus6.py'
+      - 'script/jtvplus6.py'
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
