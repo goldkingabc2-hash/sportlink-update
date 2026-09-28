@@ -72,10 +72,12 @@ jobs:
 
           git add -f jtv.m3u jtv.json
 
+          if git diff --cached --quiet; then
+            echo "No changes to commit — skipping push"
+            exit 0
+          fi
 
-          date > .last_check
-          git add .last_check
-          git commit --allow-empty -m "JIOTV Updated ✅ [$(date '+%d-%m-%Y %H:%M')] [skip ci]"
+          git commit -m "JIOTV Updated ✅ [$(date '+%d-%m-%Y %H:%M')] [skip ci]"
 
           # Retry up to 3 times in case of concurrent pushes
           for i in 1 2 3; do

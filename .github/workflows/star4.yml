@@ -46,9 +46,7 @@ jobs:
 
           # Stage and commit (skip if nothing to commit)
           git add voot.m3u
-          date > .last_check
-          git add .last_check
-          git commit --allow-empty -m "Auto-update playlists: $(date -u)" || echo "No changes to commit"
+          git commit -m "Auto-update playlists: $(date -u)" || echo "No changes to commit"
 
           # Disable immediate exit on error so we can retry pushes
           set +e

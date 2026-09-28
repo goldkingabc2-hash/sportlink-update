@@ -59,10 +59,12 @@ jobs:
         run: |
           git add jtv3.m3u
 
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
-          date > .last_check
-          git add .last_check
-          git commit --allow-empty -m "Auto-update playlist ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          git commit -m "Auto-update playlist ($(date -u '+%Y-%m-%d %H:%M UTC'))"
 
           # Safely incorporate remote changes, keeping our generated file on conflicts
           git pull --rebase -X theirs origin main

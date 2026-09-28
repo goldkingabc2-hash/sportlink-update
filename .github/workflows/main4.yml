@@ -34,7 +34,5 @@ jobs:
           export TZ="Asia/Kolkata"
           git add jtv4.m3u 
           git diff --cached --quiet && echo "No changes to commit" && exit 0
-          date > .last_check
-          git add .last_check
-          git commit --allow-empty -m "JIOTV4 PLUS Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
+          git commit -m "JIOTV4 PLUS Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
           git push origin main

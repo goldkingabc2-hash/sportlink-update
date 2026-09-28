@@ -61,10 +61,12 @@ jobs:
         run: |
           git add -f jtv2.json jtvplus3.m3u
 
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
-          date > .last_check
-          git add .last_check
-          git commit --allow-empty -m "Auto-update playlist ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          git commit -m "Auto-update playlist ($(date -u '+%Y-%m-%d %H:%M UTC'))"
 
           git fetch origin main
           git rebase origin/main

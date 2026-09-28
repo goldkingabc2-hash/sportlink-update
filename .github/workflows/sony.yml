@@ -75,6 +75,40 @@ jobs:
 
           git add sony5.m3u sony6.m3u
 
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Auto-update Sony playlist ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "--- diff summary ---"
+            git show --stat HEAD
+          fi
+
+      - name: Push with retry
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          set -e
+          for i in 1 2 3 4 5; do
+            echo "::group::Attempt $i"
+            git fetch origin main
+
+            # Replay our commit on top of latest remote.
+            # -X theirs: if sony5.m3u or sony6.m3u conflicts, keep OUR generated version.
+            if ! git rebase -X theirs origin/main; then
+              echo "Rebase conflict — aborting and retrying."
+              git rebase --abort || true
+              sleep $((i * 3))
+              echo "::endgroup::"
+              continue
+            fi
+
+            # Lease pinned to the just-fetched origin/main.
+            if git push --force-with-lease=main:origin/main origin HEAD:main; then
+              echo "Pushed on attempt $i."
+              echo "::endgroup::"
+              exit 0
+            fi
 
             echo "Push rejected, backing off..."
             sleep $((i * 3))

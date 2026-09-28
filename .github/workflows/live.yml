@@ -48,10 +48,12 @@ jobs:
 
           git add Live.m3u
 
+          if git diff --cached --quiet; then
+            echo "✅ No changes to commit"
+            exit 0
+          fi
 
-          date > .last_check
-          git add .last_check
-          git commit --allow-empty -m "live event  Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
+          git commit -m "live event  Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
 
       - name: Push Changes
         run: |

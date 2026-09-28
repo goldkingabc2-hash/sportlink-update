@@ -46,10 +46,12 @@ jobs:
 
           git add LiveEvent.m3u
 
+          if git diff --cached --quiet; then    # ← ADDED: skip if no changes
+            echo "No changes to commit. Skipping push."
+            exit 0
+          fi
 
-          date > .last_check
-          git add .last_check
-          git commit --allow-empty -m "Auto-update playlists: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git commit -m "Auto-update playlists: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
 
           for i in 1 2 3 4 5; do
             git pull --rebase origin main && git push origin main && echo "Push succeeded." && exit 0
