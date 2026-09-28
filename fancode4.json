@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "10:49:54 AM 28-09-2026",
-    "generated_at": "2026-09-28 05:30:04",
+    "source_last_updated": "12:40:57 PM 28-09-2026",
+    "generated_at": "2026-09-28 07:25:10",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
@@ -96,6 +96,19 @@
         },
         {
             "event_category": "Cricket",
+            "match_id": 4249529,
+            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
+            "match_name": "Victoria Women vs South Australian Scorpions",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "South Australian Scorpions",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 AM 29-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
             "match_id": 4250038,
             "title": "Kolhan King vs Jagannathpur Tigers (West Singhbhum T20 League 2026)",
             "match_name": "Kolhan King vs Jagannathpur Tigers",
@@ -104,7 +117,7 @@
             "team_1": "Kolhan King",
             "team_2": "Jagannathpur Tigers",
             "status": "UPCOMING",
-            "startTime": "01:00:00 PM 28-09-2026",
+            "startTime": "02:00:00 PM 28-09-2026",
             "user-agent": null
         },
         {
@@ -161,19 +174,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249529,
-            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
-            "match_name": "Victoria Women vs South Australian Scorpions",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
-            "team_1": "Victoria Women",
-            "team_2": "South Australian Scorpions",
-            "status": "UPCOMING",
-            "startTime": "09:30:00 AM 29-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249530,
             "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
             "match_name": "Western Australia Women vs Tasmania Women",
@@ -183,19 +183,6 @@
             "team_2": "Tasmania Women",
             "status": "UPCOMING",
             "startTime": "11:30:00 AM 29-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249272,
-            "title": "Leganes vs Castellón (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Castellón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "Castellón",
-            "status": "UPCOMING",
-            "startTime": "12:00:00 AM 29-09-2026",
             "user-agent": null
         },
         {
@@ -209,6 +196,19 @@
             "team_2": "Ghaziabad Giants",
             "status": "UPCOMING",
             "startTime": "01:00:00 PM 29-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249272,
+            "title": "Leganes vs Castellón (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Castellón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
+            "team_1": "Leganes",
+            "team_2": "Castellón",
+            "status": "UPCOMING",
+            "startTime": "12:00:00 AM 29-09-2026",
             "user-agent": null
         },
         {
@@ -235,6 +235,19 @@
             "team_2": "Chaibasa Challengers",
             "status": "UPCOMING",
             "startTime": "01:00:00 PM 29-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249297,
+            "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
+            "match_name": "Gurugram Gladiators vs Faridabad Firebirds",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
+            "team_1": "Gurugram Gladiators",
+            "team_2": "Faridabad Firebirds",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 29-09-2026",
             "user-agent": null
         },
         {
@@ -265,15 +278,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249297,
-            "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
-            "match_name": "Gurugram Gladiators vs Faridabad Firebirds",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
-            "team_1": "Gurugram Gladiators",
-            "team_2": "Faridabad Firebirds",
+            "match_id": 4250060,
+            "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
+            "match_name": "Sharjah vs Emirates Red",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Emirates Red",
             "status": "UPCOMING",
-            "startTime": "05:00:00 PM 29-09-2026",
+            "startTime": "04:30:00 PM 29-09-2026",
             "user-agent": null
         },
         {
@@ -291,15 +304,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250060,
-            "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Emirates Red",
+            "match_id": 4249586,
+            "title": "TBC vs TBC (Odisha T20 League 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
             "status": "UPCOMING",
-            "startTime": "04:30:00 PM 29-09-2026",
+            "startTime": "07:30:00 PM 29-09-2026",
             "user-agent": null
         },
         {
@@ -326,19 +339,6 @@
             "team_2": "Hangzhou, China",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 29-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249586,
-            "title": "TBC vs TBC (Odisha T20 League 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 29-09-2026",
             "user-agent": null
         },
         {
@@ -626,6 +626,19 @@
         },
         {
             "event_category": "Cricket",
+            "match_id": 4249529,
+            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
+            "match_name": "Victoria Women vs South Australian Scorpions",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "South Australian Scorpions",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 AM 29-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
             "match_id": 4250038,
             "title": "Kolhan King vs Jagannathpur Tigers (West Singhbhum T20 League 2026)",
             "match_name": "Kolhan King vs Jagannathpur Tigers",
@@ -634,7 +647,7 @@
             "team_1": "Kolhan King",
             "team_2": "Jagannathpur Tigers",
             "status": "UPCOMING",
-            "startTime": "01:00:00 PM 28-09-2026",
+            "startTime": "02:00:00 PM 28-09-2026",
             "user-agent": null
         },
         {
@@ -691,19 +704,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249529,
-            "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2026/27)",
-            "match_name": "Victoria Women vs South Australian Scorpions",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg",
-            "team_1": "Victoria Women",
-            "team_2": "South Australian Scorpions",
-            "status": "UPCOMING",
-            "startTime": "09:30:00 AM 29-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249530,
             "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
             "match_name": "Western Australia Women vs Tasmania Women",
@@ -713,19 +713,6 @@
             "team_2": "Tasmania Women",
             "status": "UPCOMING",
             "startTime": "11:30:00 AM 29-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249272,
-            "title": "Leganes vs Castellón (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Castellón",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "Castellón",
-            "status": "UPCOMING",
-            "startTime": "12:00:00 AM 29-09-2026",
             "user-agent": null
         },
         {
@@ -739,6 +726,19 @@
             "team_2": "Ghaziabad Giants",
             "status": "UPCOMING",
             "startTime": "01:00:00 PM 29-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249272,
+            "title": "Leganes vs Castellón (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Castellón",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249272_53017_LEG_CAS_FC-Web.png",
+            "team_1": "Leganes",
+            "team_2": "Castellón",
+            "status": "UPCOMING",
+            "startTime": "12:00:00 AM 29-09-2026",
             "user-agent": null
         },
         {
@@ -765,6 +765,19 @@
             "team_2": "Chaibasa Challengers",
             "status": "UPCOMING",
             "startTime": "01:00:00 PM 29-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249297,
+            "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
+            "match_name": "Gurugram Gladiators vs Faridabad Firebirds",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
+            "team_1": "Gurugram Gladiators",
+            "team_2": "Faridabad Firebirds",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 29-09-2026",
             "user-agent": null
         },
         {
@@ -795,15 +808,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249297,
-            "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
-            "match_name": "Gurugram Gladiators vs Faridabad Firebirds",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
-            "team_1": "Gurugram Gladiators",
-            "team_2": "Faridabad Firebirds",
+            "match_id": 4250060,
+            "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
+            "match_name": "Sharjah vs Emirates Red",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Emirates Red",
             "status": "UPCOMING",
-            "startTime": "05:00:00 PM 29-09-2026",
+            "startTime": "04:30:00 PM 29-09-2026",
             "user-agent": null
         },
         {
@@ -821,15 +834,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250060,
-            "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Sharjah vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Emirates Red",
+            "match_id": 4249586,
+            "title": "TBC vs TBC (Odisha T20 League 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
             "status": "UPCOMING",
-            "startTime": "04:30:00 PM 29-09-2026",
+            "startTime": "07:30:00 PM 29-09-2026",
             "user-agent": null
         },
         {
@@ -856,19 +869,6 @@
             "team_2": "Hangzhou, China",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 29-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249586,
-            "title": "TBC vs TBC (Odisha T20 League 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 PM 29-09-2026",
             "user-agent": null
         },
         {
