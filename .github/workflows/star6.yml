@@ -36,7 +36,7 @@ jobs:
           # pip install -r requirements.txt
 
       - name: Run star6.py
-        run: python star6.py
+        run: python script/star6.py
 
       - name: Commit and Push Changes
         run: |

@@ -53,7 +53,7 @@ jobs:
 
       - name: Run Script
         run: |
-          python jtv3.py
+          python script/jtv3.py
 
       - name: Commit and Push Changes
         run: |

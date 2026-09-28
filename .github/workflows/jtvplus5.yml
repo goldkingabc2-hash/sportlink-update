@@ -50,7 +50,7 @@ jobs:
 
       - name: Run Script
         run: |
-          python jtvplus5.py
+          python script/jtvplus5.py
 
       - name: Commit and Push Changes
         run: |

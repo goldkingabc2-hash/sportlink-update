@@ -34,7 +34,7 @@ jobs:
           # pip install -r requirements.txt
 
       - name: Run s.py
-        run: python s.py
+        run: python script/s.py
 
       - name: Commit and Push Changes
         run: |

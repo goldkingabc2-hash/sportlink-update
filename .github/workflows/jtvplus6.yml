@@ -47,7 +47,7 @@ jobs:
         env:
           TZ: Asia/Kolkata
         run: |
-          python jtvplus6.py
+          python script/jtvplus6.py
 
       - name: Commit and Push Changes
         run: |

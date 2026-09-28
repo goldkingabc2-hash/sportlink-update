@@ -37,7 +37,7 @@ jobs:
           # pip install -r requirements.txt
 
       - name: Run star4.py
-        run: python star4.py
+        run: python script/star4.py
 
       - name: Commit and Push Changes
         run: |

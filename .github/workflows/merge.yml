@@ -30,7 +30,7 @@ jobs:
           pip install requests
 
       - name: Run merge script
-        run: python merge.py
+        run: python script/merge.py
 
       - name: Always commit (with or without changes)
         run: |

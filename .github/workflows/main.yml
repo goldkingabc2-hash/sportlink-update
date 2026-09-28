@@ -38,7 +38,7 @@ jobs:
           pip install requests pytz
 
       - name: Run jtv.py
-        run: python jtv.py
+        run: python script/jtv.py
 
       - name: Verify output files
         run: |

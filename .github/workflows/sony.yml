@@ -45,8 +45,8 @@ jobs:
 
       - name: Run Scripts
         run: |
-          python sony.py
-          python sony3.py
+          python script/sony.py
+          python script/sony3.py
 
       - name: Debug — show what the scripts produced
         run: |

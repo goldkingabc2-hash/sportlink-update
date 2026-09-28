@@ -50,7 +50,7 @@ jobs:
 
       - name: Run Script
         run: |
-          python pocket.py
+          python script/pocket.py
 
       - name: Commit and Push Changes
         run: |

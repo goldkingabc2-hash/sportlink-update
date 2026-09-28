@@ -36,7 +36,7 @@ jobs:
           # pip install -r requirements.txt
 
       - name: Run cookie.py
-        run: python cookie.py
+        run: python script/cookie.py
 
       - name: Commit and Push Changes
         run: |

@@ -48,7 +48,7 @@ jobs:
           pip install requests pytz
 
       - name: Run sony2.py
-        run: python sony2.py
+        run: python script/sony2.py
 
       - name: Debug Output File
         run: |
