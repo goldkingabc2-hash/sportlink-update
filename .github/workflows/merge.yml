@@ -43,9 +43,13 @@ jobs:
             echo "No playlist changes, creating heartbeat update"
             echo "⏰ Last checked: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" > .last_check
             git add .last_check
-            git commit -m "💓 Heartbeat $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            date > .last_check
+          git add .last_check
+          git commit --allow-empty -m "💓 Heartbeat $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           else
-            git commit -m "🤖 Update M3U playlist $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            date > .last_check
+          git add .last_check
+          git commit --allow-empty -m "🤖 Update M3U playlist $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           fi
 
           # Retry once with rebase if remote has moved ahead (e.g. overlapping/queued run)

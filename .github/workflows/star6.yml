@@ -44,7 +44,9 @@ jobs:
           git config --global user.email "271363488+sportlive18@users.noreply.github.com"
 
           git add star2.json
-          git commit -m "Auto-update playlists: $(date -u)" || echo "No changes to commit"
+          date > .last_check
+          git add .last_check
+          git commit --allow-empty -m "Auto-update playlists: $(date -u)" || echo "No changes to commit"
 
           for i in 1 2 3 4 5; do
             git pull --rebase origin main && git push origin main && break

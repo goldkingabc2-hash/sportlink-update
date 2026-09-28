@@ -57,18 +57,20 @@ jobs:
           fi
       
       - name: Commit Changes
-        if: steps.check_changes.outputs.has_changes == 'true'
+
         run: |
-          git commit -m "JTV PLUS Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
+          date > .last_check
+          git add .last_check
+          git commit --allow-empty -m "JTV PLUS Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
           echo "✔️  Changes committed"
       
       - name: Pull Before Push (Conflict Prevention)
-        if: steps.check_changes.outputs.has_changes == 'true'
+
         run: |
           git pull origin main --rebase --autostash || true
       
       - name: Push to Repository
-        if: steps.check_changes.outputs.has_changes == 'true'
+
         run: |
           git push origin main
           echo "🚀 Pushed successfully to remote"
@@ -100,5 +102,7 @@ jobs:
           echo "  Repository: https://github.com/sportlive18/jio-tv-auto-update-playlist"
           echo "  File: jtvplus.m3u"
           echo "  Time: $(date +'%Y-%m-%d %H:%M:%S IST')"
-          echo "  Status: ✅ Complete"          git commit -m "JTV PLUS Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
+          echo "  Status: ✅ Complete"          date > .last_check
+          git add .last_check
+          git commit --allow-empty -m "JTV PLUS Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
           git push origin main

@@ -48,12 +48,10 @@ jobs:
 
           git add jtv5.m3u
 
-          if git diff --cached --quiet; then
-            echo "✅ No changes to commit"
-            exit 0
-          fi
 
-          git commit -m "JIOTV Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
+          date > .last_check
+          git add .last_check
+          git commit --allow-empty -m "JIOTV Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
 
       - name: Push Changes
         run: |

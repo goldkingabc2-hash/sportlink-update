@@ -67,18 +67,20 @@ jobs:
           fi
       
       - name: Commit Changes
-        if: steps.check_changes.outputs.has_changes == 'true'
+
         run: |
-          git commit -m "JTV PLUS Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
+          date > .last_check
+          git add .last_check
+          git commit --allow-empty -m "JTV PLUS Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
           echo "✔️  Changes committed"
       
       - name: Pull Before Push (Conflict Prevention)
-        if: steps.check_changes.outputs.has_changes == 'true'
+
         run: |
           git pull origin main --rebase --autostash || true
       
       - name: Push to Repository
-        if: steps.check_changes.outputs.has_changes == 'true'
+
         run: |
           git push origin main
           echo "🚀 Pushed successfully to remote"

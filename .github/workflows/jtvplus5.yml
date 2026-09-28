@@ -56,12 +56,10 @@ jobs:
         run: |
           git add jtvplus5.m3u
           
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
           
-          git commit -m "Auto-update playlist ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          date > .last_check
+          git add .last_check
+          git commit --allow-empty -m "Auto-update playlist ($(date -u '+%Y-%m-%d %H:%M UTC'))"
           
           # Fetch latest changes again and rebase
           git fetch origin main
