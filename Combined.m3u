@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (6 channels) =====
+#===== Fancode | Sportlink (5 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Monday, 28 September 2026 at 6:56:19 pm
-
-#EXTINF:-1 tvg-id="4249579" tvg-name="Puri Titans Vs Bhubaneshwar Tigers @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249579_53080_PUT_BBT_fc-web_1790170352733.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Puri Titans Vs Bhubaneshwar Tigers
-https://dai-fancode.pages.dev/mumbai/4249579_english_hls_b274be913d47390_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- Monday, 28 September 2026 at 7:14:18 pm
 
 #EXTINF:-1 tvg-id="4249303" tvg-name="Delhi Dynamos Vs Noida Ninjas @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249303_53073_DEA_NNJ_fc-App.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Delhi Dynamos Vs Noida Ninjas
 https://dai-fancode.pages.dev/mumbai/4249303_english_hls_a74108230b76347_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249580" tvg-name="Rourkela Superstars Vs Kataka Panthers @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249580_53080_ROR_CUT_fc-web_1790170352094.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Rourkela Superstars Vs Kataka Panthers
+https://dai-fancode.pages.dev/mumbai/4249580_english_hls_48481373ef83639_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250057" tvg-name="Ajman Vs Fujairah @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250057_53103_AJM_FUJ_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Ajman Vs Fujairah
 https://dai-fancode.pages.dev/mumbai/4250057_english_hls_07fb3053ef68054_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -16,16 +16,19 @@ https://dai-fancode.pages.dev/mumbai/4250057_english_hls_07fb3053ef68054_1ta-di_
 #EXTINF:-1 tvg-id="4248542" tvg-name="Day 6 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 6
 https://dai-fancode.pages.dev/mumbai/4248542_english_hls_d6f5b8b2c813798_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4248549" tvg-name="Day 6 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 6
-https://dai-fancode.pages.dev/mumbai/4248549_english_hls_111f5fde26272_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#===== SonyLIV | Sportlink (1 channels) =====
+#===== SonyLIV | Sportlink (3 channels) =====
 #EXTINF:-1 tvg-name="Day 10 - 28 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="SonyLIV | Sportlink", Day 10 - 28 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790645096~acl=/*~id=41516782399642159786846621073665~hmac=fbaeb65aa4c69c44bb7901a3cd950a9c26e9c86c2300248eef7c957d1600f06d
+https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790646914~acl=/*~id=34615676178203951639254816116297~hmac=05da552df2d318f03939deeb0325e1d82661b6e4477b3fc9d7635ccbe89033ee
+
+#EXTINF:-1 tvg-name="Athletics - 28 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Athletics - 28 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds1_2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790646914~acl=/*~id=34615676178203951639254816116297~hmac=05da552df2d318f03939deeb0325e1d82661b6e4477b3fc9d7635ccbe89033ee
+
+#EXTINF:-1 tvg-name="Athletics - 28 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Athletics - 28 Sep 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022319/ag_dx4_22709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790646914~acl=/*~id=34615676178203951639254816116297~hmac=05da552df2d318f03939deeb0325e1d82661b6e4477b3fc9d7635ccbe89033ee
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 PM 28-09-2026
+#LAST_UPDATE:07:32 PM 28-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
@@ -33,7 +36,7 @@ https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800
 
 #===== Prime Video | Sportlink (4 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:06:32 PM 28-09-2026
+#LAST_UPDATE:07:32 PM 28-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -58,7 +61,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 #===== AXS | Sportlink (8 channels) =====
 #name: Axsports Auto Update Playlist
