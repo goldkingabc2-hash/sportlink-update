@@ -78,3 +78,5 @@ jobs:
           done
 
           echo "Push
+ failed"
+          exit 1
