@@ -1,4 +1,11 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+#===== Sports | Sportlink (2 channels) =====
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025877/1791197268369540_VCL_Emperia-Marathas-vs-Punjab-Aerostrikers_live_landscape_thumb.jpg" group-title="Sports | Sportlink", Emperia Marathas vs Punjab Aerostrikers - 6 Oct 2026 [ENG] - Volleyball Championship League 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025877/1791197268369540_VCL_Emperia-Marathas-vs-Punjab-Aerostrikers_live_landscape_thumb.jpg" group-title="Sports | Sportlink", Emperia Marathas vs Punjab Aerostrikers - 6 Oct 2026 [HIN] - Volleyball Championship League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/Volleyba0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c
+
 #===== Fancode | Sportlink (2 channels) =====
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250084_53103_SHA_AJM_FC-WEB.jpg" group-title="Fancode | Sportlink", Emirates D10, 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791370033~_GO=Generated~acl=/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/*~Signature=AXZsC1AOl3IPbSbgdugLYiX95mUq1GEQkS4giF3tpd2dHop1C4nw4dXIvHRz1LjBz9Hujy0cEAc9izNyn83cH9OQC-IN
@@ -6,9 +13,34 @@ https://in-mc-flive.fancode.com/mumbai/4250084_english_hls_282de4f0411679_1ta-di
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Novak_vs_Alex_FC-Web_1791289039158.jpg" group-title="Fancode | Sportlink", ATP 500 - China Open 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791370034~_GO=Generated~acl=/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/*~Signature=AXZsC1CcqmtMXv632DcnQkcSJYvq2efzENMZ0oQmXt_v0DKO3ZGoTALHF3uYIh_lgHi20JEaATYL3ehsmnmb2guUO1kC
 
+#===== SonyLIV | Sportlink (8 channels) =====
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Uruguay - 6 Oct 2026 [ENG] - India's International Friendlies 2026
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Uruguay - 6 Oct 2026 [HIN] - India's International Friendlies 2026
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Uruguay - 6 Oct 2026 [TAM] - India's International Friendlies 2026
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Uruguay - 6 Oct 2026 [TEL] - India's International Friendlies 2026
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Uruguay - 6 Oct 2026 [KAN] - India's International Friendlies 2026
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025877/1791197268369540_VCL_Emperia-Marathas-vs-Punjab-Aerostrikers_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Emperia Marathas vs Punjab Aerostrikers - 6 Oct 2026 [ENG] - Volleyball Championship League 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025877/1791197268369540_VCL_Emperia-Marathas-vs-Punjab-Aerostrikers_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Emperia Marathas vs Punjab Aerostrikers - 6 Oct 2026 [HIN] - Volleyball Championship League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/Volleyba0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196784948723_IND_vs_URU_live_landscape_thumb_benagli.jpg" group-title="SonyLIV | Sportlink", India vs Uruguay - 6 Oct 2026 (Bengali) [BEN] - India's International Friendlies 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c
+
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:02 PM 06-10-2026
+#LAST_UPDATE:06:32 PM 06-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
@@ -16,7 +48,7 @@ https://in-mc-flive.fancode.com/mumbai/4248564_english_hls_1c8cd769e525971_1ta-d
 
 #===== Prime Video | Sportlink (3 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:06:02 PM 06-10-2026
+#LAST_UPDATE:06:32 PM 06-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -27,11 +59,11 @@ https://in-mc-flive.fancode.com/mumbai/4248564_english_hls_1c8cd769e525971_1ta-d
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HH9KHMC7" tvg-name="Round of 16 @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0b6cd474-8936-4d52-b31e-47a72479e5aa/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Round of 16
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
