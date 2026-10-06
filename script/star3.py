@@ -6,7 +6,7 @@ import re
 # ---------- CONFIG ----------
 COOKIE_URL = "https://premiumplugx.com/htt/hot.php?playlist=1"
 JSON_URL   = "https://sportlink-jtv.pages.dev/hstar.json"
-OUTPUT     = "hotstar.m3u"
+OUTPUT     = "tstar.m3u"
 
 USER_AGENT = "Virat Kohli"
 REFERER    = "https://www.hotstar.com/"

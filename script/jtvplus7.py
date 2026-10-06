@@ -216,7 +216,7 @@ def upload_to_github(content: str) -> bool:
     return True
 
 
-def main(output_file: str = "jtvplus7.m3u"):
+def main(output_file: str = "zio.m3u"):
     try:
         m3u = generate_m3u()
 
