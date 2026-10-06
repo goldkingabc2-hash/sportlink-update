@@ -1,21 +1,21 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "6/10/2026, 5:53:20 pm",
+  "updatedAt": "6/10/2026, 6:49:38 pm",
   "total_matches": 40,
-  "live_matches": 2,
-  "upcoming_matches": 38,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Ajman vs Sharjah [English]",
+      "title": "Emirates Red vs Abu Dhabi [English]",
       "tournament": "Emirates D10, 2026",
-      "match_id": "4250084",
+      "match_id": "4250085",
       "status": "LIVE",
-      "startTime": "04:30:00 PM 06-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250084_53103_SHA_AJM_FC-WEB.jpg",
+      "startTime": "06:45:00 PM 06-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250085_53103_ABD_EMR_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791370033~_GO=Generated~acl=/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/*~Signature=AXZsC1AOl3IPbSbgdugLYiX95mUq1GEQkS4giF3tpd2dHop1C4nw4dXIvHRz1LjBz9Hujy0cEAc9izNyn83cH9OQC-IN",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791378524~_GO=Generated~acl=/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/*~Signature=AXZsC1AXFt-1mZLKnmNLfQxFfGlL8z1JScAkBLZevvGR8tODH0Hh89a8cjBTZieCTolm65CsqNtBdyt8SwwR2LuzX8YL",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
@@ -25,48 +25,15 @@
       "auto_streams": {
         "ENGLISH": {
           "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/240p.m3u8?hdntl=Expires=1791370033~_GO=Generated~acl=/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/*~Signature=AXZsC1AOl3IPbSbgdugLYiX95mUq1GEQkS4giF3tpd2dHop1C4nw4dXIvHRz1LjBz9Hujy0cEAc9izNyn83cH9OQC-IN",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/360p.m3u8?hdntl=Expires=1791370033~_GO=Generated~acl=/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/*~Signature=AXZsC1AOl3IPbSbgdugLYiX95mUq1GEQkS4giF3tpd2dHop1C4nw4dXIvHRz1LjBz9Hujy0cEAc9izNyn83cH9OQC-IN",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/480p.m3u8?hdntl=Expires=1791370033~_GO=Generated~acl=/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/*~Signature=AXZsC1AOl3IPbSbgdugLYiX95mUq1GEQkS4giF3tpd2dHop1C4nw4dXIvHRz1LjBz9Hujy0cEAc9izNyn83cH9OQC-IN",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/540p.m3u8?hdntl=Expires=1791370033~_GO=Generated~acl=/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/*~Signature=AXZsC1AOl3IPbSbgdugLYiX95mUq1GEQkS4giF3tpd2dHop1C4nw4dXIvHRz1LjBz9Hujy0cEAc9izNyn83cH9OQC-IN",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/720p.m3u8?hdntl=Expires=1791370033~_GO=Generated~acl=/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/*~Signature=AXZsC1AOl3IPbSbgdugLYiX95mUq1GEQkS4giF3tpd2dHop1C4nw4dXIvHRz1LjBz9Hujy0cEAc9izNyn83cH9OQC-IN",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791370033~_GO=Generated~acl=/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/*~Signature=AXZsC1AOl3IPbSbgdugLYiX95mUq1GEQkS4giF3tpd2dHop1C4nw4dXIvHRz1LjBz9Hujy0cEAc9izNyn83cH9OQC-IN"
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/240p.m3u8?hdntl=Expires=1791378524~_GO=Generated~acl=/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/*~Signature=AXZsC1AXFt-1mZLKnmNLfQxFfGlL8z1JScAkBLZevvGR8tODH0Hh89a8cjBTZieCTolm65CsqNtBdyt8SwwR2LuzX8YL",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/360p.m3u8?hdntl=Expires=1791378524~_GO=Generated~acl=/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/*~Signature=AXZsC1AXFt-1mZLKnmNLfQxFfGlL8z1JScAkBLZevvGR8tODH0Hh89a8cjBTZieCTolm65CsqNtBdyt8SwwR2LuzX8YL",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/480p.m3u8?hdntl=Expires=1791378524~_GO=Generated~acl=/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/*~Signature=AXZsC1AXFt-1mZLKnmNLfQxFfGlL8z1JScAkBLZevvGR8tODH0Hh89a8cjBTZieCTolm65CsqNtBdyt8SwwR2LuzX8YL",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/540p.m3u8?hdntl=Expires=1791378524~_GO=Generated~acl=/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/*~Signature=AXZsC1AXFt-1mZLKnmNLfQxFfGlL8z1JScAkBLZevvGR8tODH0Hh89a8cjBTZieCTolm65CsqNtBdyt8SwwR2LuzX8YL",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/720p.m3u8?hdntl=Expires=1791378524~_GO=Generated~acl=/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/*~Signature=AXZsC1AXFt-1mZLKnmNLfQxFfGlL8z1JScAkBLZevvGR8tODH0Hh89a8cjBTZieCTolm65CsqNtBdyt8SwwR2LuzX8YL",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791378524~_GO=Generated~acl=/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/*~Signature=AXZsC1AXFt-1mZLKnmNLfQxFfGlL8z1JScAkBLZevvGR8tODH0Hh89a8cjBTZieCTolm65CsqNtBdyt8SwwR2LuzX8YL"
           },
-          "cookie": "hdntl=Expires=1791370033~_GO=Generated~acl=/mumbai/4250084_english_hls_282de4f0411679_1ta-di_h264/*~Signature=AXZsC1AOl3IPbSbgdugLYiX95mUq1GEQkS4giF3tpd2dHop1C4nw4dXIvHRz1LjBz9Hujy0cEAc9izNyn83cH9OQC-IN",
-          "expires": "1791370033",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Tennis",
-      "title": "N. Djokovic vs A. de Minaur [English]",
-      "tournament": "ATP 500 - China Open 2026",
-      "match_id": "4248564",
-      "status": "LIVE",
-      "startTime": "04:30:00 PM 06-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Novak_vs_Alex_FC-Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791370034~_GO=Generated~acl=/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/*~Signature=AXZsC1CcqmtMXv632DcnQkcSJYvq2efzENMZ0oQmXt_v0DKO3ZGoTALHF3uYIh_lgHi20JEaATYL3ehsmnmb2guUO1kC",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/240p.m3u8?hdntl=Expires=1791370034~_GO=Generated~acl=/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/*~Signature=AXZsC1CcqmtMXv632DcnQkcSJYvq2efzENMZ0oQmXt_v0DKO3ZGoTALHF3uYIh_lgHi20JEaATYL3ehsmnmb2guUO1kC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/360p.m3u8?hdntl=Expires=1791370034~_GO=Generated~acl=/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/*~Signature=AXZsC1CcqmtMXv632DcnQkcSJYvq2efzENMZ0oQmXt_v0DKO3ZGoTALHF3uYIh_lgHi20JEaATYL3ehsmnmb2guUO1kC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/480p.m3u8?hdntl=Expires=1791370034~_GO=Generated~acl=/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/*~Signature=AXZsC1CcqmtMXv632DcnQkcSJYvq2efzENMZ0oQmXt_v0DKO3ZGoTALHF3uYIh_lgHi20JEaATYL3ehsmnmb2guUO1kC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/540p.m3u8?hdntl=Expires=1791370034~_GO=Generated~acl=/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/*~Signature=AXZsC1CcqmtMXv632DcnQkcSJYvq2efzENMZ0oQmXt_v0DKO3ZGoTALHF3uYIh_lgHi20JEaATYL3ehsmnmb2guUO1kC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/720p.m3u8?hdntl=Expires=1791370034~_GO=Generated~acl=/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/*~Signature=AXZsC1CcqmtMXv632DcnQkcSJYvq2efzENMZ0oQmXt_v0DKO3ZGoTALHF3uYIh_lgHi20JEaATYL3ehsmnmb2guUO1kC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791370034~_GO=Generated~acl=/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/*~Signature=AXZsC1CcqmtMXv632DcnQkcSJYvq2efzENMZ0oQmXt_v0DKO3ZGoTALHF3uYIh_lgHi20JEaATYL3ehsmnmb2guUO1kC"
-          },
-          "cookie": "hdntl=Expires=1791370034~_GO=Generated~acl=/mumbai/4248564_english_hls_1c8cd769e525971_1ta-di_h264/*~Signature=AXZsC1CcqmtMXv632DcnQkcSJYvq2efzENMZ0oQmXt_v0DKO3ZGoTALHF3uYIh_lgHi20JEaATYL3ehsmnmb2guUO1kC",
-          "expires": "1791370034",
+          "cookie": "hdntl=Expires=1791378524~_GO=Generated~acl=/mumbai/4250085_english_hls_19a106651711926_1ta-di_h264/*~Signature=AXZsC1AXFt-1mZLKnmNLfQxFfGlL8z1JScAkBLZevvGR8tODH0Hh89a8cjBTZieCTolm65CsqNtBdyt8SwwR2LuzX8YL",
+          "expires": "1791378524",
           "expire_date": ""
         }
       }
@@ -79,25 +46,6 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 AM 07-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Abu Dhabi vs Emirates Red",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250085",
-      "status": "UPCOMING",
-      "startTime": "06:45:00 PM 06-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250085_53103_ABD_EMR_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -187,12 +135,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Abu Dhabi vs Fujairah",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250088",
+      "title": "USA vs Namibia",
+      "tournament": "ICC CWC League 2 USA, 2026",
+      "match_id": "4249658",
       "status": "UPCOMING",
-      "startTime": "04:30:00 PM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250088_53103_ABD_FUJ_FC-WEB.jpg",
+      "startTime": "08:30:00 PM 07-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -206,12 +154,12 @@
     },
     {
       "category": "Cricket",
-      "title": "USA vs Namibia",
-      "tournament": "ICC CWC League 2 USA, 2026",
-      "match_id": "4249658",
+      "title": "Abu Dhabi vs Fujairah",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250088",
       "status": "UPCOMING",
-      "startTime": "08:30:00 PM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png",
+      "startTime": "04:30:00 PM 07-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250088_53103_ABD_FUJ_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -281,13 +229,32 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Ajman vs Emirates Blues",
+      "tournament": "Emirates D10, 2026",
+      "match_id": "4250091",
+      "status": "UPCOMING",
+      "startTime": "11:15:00 PM 07-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250091_53103_AJM_EMB_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "ATP Masters - Rolex Shanghai Masters",
       "tournament": "ATP Masters - Rolex Shanghai Masters",
       "match_id": "4248809",
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -306,7 +273,7 @@
       "match_id": "4248810",
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -325,7 +292,7 @@
       "match_id": "4248811",
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -344,26 +311,7 @@
       "match_id": "4248812",
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Ajman vs Emirates Blues",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250091",
-      "status": "UPCOMING",
-      "startTime": "11:15:00 PM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250091_53103_AJM_EMB_FC-WEB.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -591,7 +539,7 @@
       "match_id": "4248813",
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -610,7 +558,7 @@
       "match_id": "4248814",
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -629,7 +577,7 @@
       "match_id": "4248815",
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -648,7 +596,7 @@
       "match_id": "4248816",
       "status": "UPCOMING",
       "startTime": "01:30:00 PM 08-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -782,6 +730,44 @@
       "status": "UPCOMING",
       "startTime": "06:45:00 AM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Afghanistan vs Bangladesh",
+      "tournament": "Bangladesh tour of Afghanistan in UAE, 2026",
+      "match_id": "4249693",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Oman vs Canada",
+      "tournament": "ICC CWC League 2 Oman, 2026",
+      "match_id": "4250113",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250113_53106_OMA_CAN_fc-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
