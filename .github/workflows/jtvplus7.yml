@@ -1,4 +1,4 @@
-name: Update JTV PLUS 7 Playlist
+name: Update zio playlist
 on:
   schedule:
     - cron: '*/10 * * * *'
