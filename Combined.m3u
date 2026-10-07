@@ -2,10 +2,10 @@
 #===== Fancode | Sportlink (6 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Wednesday, 7 October 2026 at 10:56:13 am
+#DATE:- Wednesday, 7 October 2026 at 12:42:12 pm
 
-#EXTINF:-1 tvg-id="4249662" tvg-name="Victoria Vs South Australia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Victoria Vs South Australia
-https://dai-fancode.pages.dev/mumbai/4249662_english_hls_3995c057df23907_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250055" tvg-name="Manoharpur Lions Vs Jaganathpur Tiger @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Manoharpur Lions Vs Jaganathpur Tiger
+https://dai-fancode.pages.dev/mumbai/4250055_english_hls_c9abca108990169_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4248809" tvg-name="World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | World Feed
 https://dai-fancode.pages.dev/mumbai/4248809_english_hls_59b8a894ac27038_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -21,19 +21,26 @@ https://dai-fancode.pages.dev/mumbai/4248810_english_hls_0f627da36a15946_1ta-di_
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:11:32 AM 07-10-2026
+#LAST_UPDATE:01:02 PM 07-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
 #UPCOMING_COUNT:20
 
-#===== Prime Video | Sportlink (1 channels) =====
+#===== Prime Video | Sportlink (2 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:11:32 AM 07-10-2026
+#LAST_UPDATE:01:02 PM 07-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
+#LIVE_COUNT:1
 #UPCOMING_COUNT:0
+
+#EXTINF:-1 tvg-id="B0HKSQMHDV" tvg-name="Tennis Today Live-Shanghai-ATP 1st Round; Beijing-WTA Round of 16 @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be2c72eb-5c96-42d2-9a98-2722020e9a41/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Tennis Today Live-Shanghai-ATP 1st Round; Beijing-WTA Round of 16
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 #===== AXS | Sportlink (1 channels) =====
 #name: Axsports Auto Update Playlist
