@@ -104,7 +104,11 @@ def create_channel_entry(channel: Dict[str, Any],
                          sports_cookies: Dict[str, str] = {}) -> str:
     name = channel.get("name", "")
     logo = channel.get("logo", "")
-    group = channel.get("group") or channel.get("category") or "Other"
+
+    # ---- NEW: prefix the group-title with "Sportlink I " ----
+    raw_group = channel.get("group") or channel.get("category") or "Other"
+    group = f"Sportlink I {raw_group}"
+
     url = channel.get("url", "")
     channel_id = str(channel.get("id", ""))
 
