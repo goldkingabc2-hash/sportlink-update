@@ -116,7 +116,12 @@ def sort_items(items):
 
 def generate_m3u(items, cookie, out_file):
     items = sort_items(items)
-    lines = ["#EXTM3U"]
+    lines = [
+        "#EXTM3U",
+        "#DATE:- 07-10-2026 23:25",
+        "# Written and Directed by sayan",
+        "# Join us on Telegram: t.me/sportlink10",
+    ]
     written = 0
 
     for item in items:
