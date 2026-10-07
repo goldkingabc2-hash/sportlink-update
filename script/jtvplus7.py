@@ -6,7 +6,7 @@ from typing import Dict, List, Set, Any, Optional
 from datetime import datetime
 from urllib.parse import urlparse, parse_qs, urlunparse
 
-CHANNELS_URL = "https://sportlink10-ajp.pages.dev/jtv.json"
+CHANNELS_URL = "https://sportlink-jtv.pages.dev/ztv.json"
 COOKIE_URL = "https://allinonereborn2.online/jstrweb2/cookies.json"
 SPORTS_COOKIE_URL = "https://allinonereborn2.online/jtv-fetch/jstarcookie/cookie.json"
 
@@ -28,7 +28,6 @@ def get_json(url: str) -> Any:
     return resp.json()
 
 def split_url_query(url: str) -> tuple:
-    """Return (base_url, query_string). query_string is None if absent."""
     parsed = urlparse(url)
     base = urlunparse((parsed.scheme, parsed.netloc, parsed.path, parsed.params, "", ""))
     query = parsed.query if parsed.query else None
@@ -69,6 +68,37 @@ def get_sports_data() -> Dict[str, Any]:
     }
 
 
+def _collect_clearkey_entries(channel: Dict[str, Any]) -> List[tuple]:
+    """
+    Returns an ordered list of (keyId, key) tuples.
+    Handles:
+      - single top-level keyId + key
+      - keys: [ {keyId, key}, ... ]   (multiple pairs)
+      - clearkey: { "kid": "key", ... }
+    NOTE: Does NOT deduplicate — duplicates are kept as-is.
+    """
+    entries: List[tuple] = []
+
+    # 1. Top-level keyId + key
+    if channel.get("keyId") and channel.get("key"):
+        entries.append((str(channel["keyId"]), str(channel["key"])))
+
+    # 2. keys array (multiple pairs) — keep all entries including duplicates
+    keys_arr = channel.get("keys")
+    if isinstance(keys_arr, list):
+        for k in keys_arr:
+            if isinstance(k, dict) and k.get("keyId") and k.get("key"):
+                entries.append((str(k["keyId"]), str(k["key"])))
+
+    # 3. clearkey dict fallback
+    ck = channel.get("clearkey")
+    if isinstance(ck, dict):
+        for kid, key in ck.items():
+            entries.append((str(kid), str(key)))
+
+    return entries
+
+
 def create_channel_entry(channel: Dict[str, Any],
                          normal_cookie: str = "",
                          sports_cookies: Dict[str, str] = {}) -> str:
@@ -79,28 +109,33 @@ def create_channel_entry(channel: Dict[str, Any],
     channel_id = str(channel.get("id", ""))
 
     lines = []
+    lines.append(
+        f'#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{name}" '
+        f'tvg-logo="{logo}" group-title="{group}",{name}'
+    )
 
-    lines.append(f'#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}')
-
-    is_mpd = (channel.get("type") == "dash") or (".mpd" in url.lower() and ("?" in url.lower() or url.lower().endswith(".mpd")))
+    is_mpd = (channel.get("type") == "dash") or (".mpd" in url.lower())
 
     if is_mpd:
         lines.append("#KODIPROP:inputstream=inputstream.adaptive")
         lines.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
 
-        # Clearkey logic
-        if channel.get("keyId") and channel.get("key"):
+        # ---- Clearkey handling (ALL pairs on a single comma-separated line) ----
+        clearkey_entries = _collect_clearkey_entries(channel)
+        if clearkey_entries:
             lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
-            lines.append(f"#KODIPROP:inputstream.adaptive.license_key={channel['keyId']}:{channel['key']}")
-        elif "clearkey" in channel and isinstance(channel["clearkey"], dict) and channel["clearkey"]:
-            lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
-            key_id, key = next(iter(channel["clearkey"].items()))
-            lines.append(f"#KODIPROP:inputstream.adaptive.license_key={key_id}:{key}")
+            # Join ALL pairs with commas — duplicates included
+            pairs = ",".join(f"{kid}:{key}" for kid, key in clearkey_entries)
+            lines.append(
+                f"#KODIPROP:inputstream.adaptive.license_key={pairs}"
+            )
         elif channel.get("license_url"):
             lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
-            lines.append(f"#KODIPROP:inputstream.adaptive.license_key={channel['license_url']}")
+            lines.append(
+                f"#KODIPROP:inputstream.adaptive.license_key={channel['license_url']}"
+            )
 
-    # Resolve final URL (sports override or append normal cookie as query)
+    # ---- Resolve final URL ----
     sports_url = sports_cookies.get(channel_id)
     if sports_url:
         final_url_with_query = sports_url
@@ -113,7 +148,7 @@ def create_channel_entry(channel: Dict[str, Any],
 
     base_url, cookie_query = split_url_query(final_url_with_query)
 
-    # --- Optional: KODIPROP stream_headers (useful for ExoPlayer / TiviMate) ---
+    # ---- KODIPROP stream_headers ----
     if cookie_query:
         stream_headers = (
             f"User-Agent={USER_AGENT}"
@@ -122,18 +157,16 @@ def create_channel_entry(channel: Dict[str, Any],
             f"&Cookie={cookie_query}"
         )
         lines.append(
-            "#KODIPROP:inputstream.adaptive.stream_headers="
-            + stream_headers
+            "#KODIPROP:inputstream.adaptive.stream_headers=" + stream_headers
         )
 
-    # --- VLC-style options (what you asked to add) ---
+    # ---- VLC-style options ----
     lines.append(f"#EXTVLCOPT:http-user-agent={USER_AGENT}")
     lines.append(f"#EXTVLCOPT:http-referrer={REFERER}")
-
     if cookie_query:
         lines.append(f"#EXTVLCOPT:http-cookie={cookie_query}")
 
-    # --- EXTHTTP JSON blob (used by some IPTV players) ---
+    # ---- EXTHTTP JSON blob ----
     if cookie_query:
         exthttp = {
             "User-Agent": USER_AGENT,
@@ -144,7 +177,6 @@ def create_channel_entry(channel: Dict[str, Any],
         lines.append(f"#EXTHTTP:{json.dumps(exthttp)}")
 
     lines.append(base_url)
-
     return "\n".join(lines)
 
 
@@ -172,7 +204,6 @@ def upload_to_github(content: str) -> bool:
     if not all([repo_owner, repo_name, token]):
         print("⚠️  GitHub credentials missing. Skipping upload.")
         return False
-
     if not UPLOAD_TO_GITHUB:
         print("⚠️  Upload disabled by UPLOAD_TO_GITHUB flag. Skipping.")
         return False
@@ -206,12 +237,10 @@ def upload_to_github(content: str) -> bool:
         "content": to_base64(content),
         "sha": sha,
     }
-
     put_resp = requests.put(api_url, headers=headers, json=payload)
     if not put_resp.ok:
         print(f"❌ GitHub upload failed: {put_resp.status_code} - {put_resp.text}")
         return False
-
     print(f"✅ GitHub upload successful ({put_resp.status_code})")
     return True
 
@@ -219,13 +248,10 @@ def upload_to_github(content: str) -> bool:
 def main(output_file: str = "zio.m3u"):
     try:
         m3u = generate_m3u()
-
         with open(output_file, "w", encoding="utf-8") as f:
             f.write(m3u)
         print(f"📁 Playlist saved locally as '{output_file}'")
-
         upload_to_github(m3u)
-
         print("✅ Playlist updated successfully")
     except Exception as e:
         print(f"❌ Error: {e}")
