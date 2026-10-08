@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (5 channels) =====
+#===== Fancode | Sportlink (6 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Thursday, 8 October 2026 at 5:35:20 pm
+#DATE:- Thursday, 8 October 2026 at 5:49:18 pm
 
 #EXTINF:-1 tvg-id="4248813" tvg-name="World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | World Feed
 https://dai-fancode.pages.dev/mumbai/4248813_english_hls_acae4fc53328003_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -15,6 +15,9 @@ https://dai-fancode.pages.dev/mumbai/4248814_english_hls_0519f4f1b728375_1ta-di_
 
 #EXTINF:-1 tvg-id="4250124" tvg-name="Round 16 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Badminton_FC-Web_1791376059215.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Round 16
 https://dai-fancode.pages.dev/mumbai/4250124_english_hls_6746768b5a57756_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249605" tvg-name="Mohun Bagan Super Giants Vs East Bengal Fc @virat10" tvg-logo="https://images.fancode.com/aig/match/v1791216505737/4249605_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Mohun Bagan Super Giants Vs East Bengal Fc
+https://dai-fancode.pages.dev/mumbai/4249605_english_hls_0f5b276f269703_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="Open de Espana Presented By Madrid - Day 1 - 8 Oct 2026 [ENG] - DP World Tour @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649374942310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Open de Espana Presented By Madrid - Day 1 - 8 Oct 2026 [ENG] - DP World Tour
