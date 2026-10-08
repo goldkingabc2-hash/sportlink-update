@@ -6461,11 +6461,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81ac1976053b563b8e157ab2f07a3f6e:38c1412cc587b31a7ee53df457497884,10f476c8ae905d08abc013d975f9aa8c:2429df9c32e89252b2870b05c7a71c1a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791490992~exp=1791494592~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=5c497b303cfaa7d79f75ab72a4198d9d31ef3c5baa35808b797a3ac1f06b518d
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791494590~exp=1791498190~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=5b57db83f2cdeb9b3ecbb4e3a4f47bfc7e2a68ce88cb942ca095f39dbdcd18b5
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791490992~exp=1791494592~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=5c497b303cfaa7d79f75ab72a4198d9d31ef3c5baa35808b797a3ac1f06b518d
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791490992~exp=1791494592~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=5c497b303cfaa7d79f75ab72a4198d9d31ef3c5baa35808b797a3ac1f06b518d"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791494590~exp=1791498190~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=5b57db83f2cdeb9b3ecbb4e3a4f47bfc7e2a68ce88cb942ca095f39dbdcd18b5
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791494590~exp=1791498190~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=5b57db83f2cdeb9b3ecbb4e3a4f47bfc7e2a68ce88cb942ca095f39dbdcd18b5"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1338" tvg-name="RT India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="Sportlink I English",RT India
