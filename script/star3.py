@@ -8,7 +8,7 @@ COOKIE_URL = "https://premiumplugx.com/htt/hot.php?playlist=1"
 JSON_URL   = "https://sportlink-jtv.pages.dev/hstar.json"
 OUTPUT     = "tstar.m3u"
 
-USER_AGENT = "Virat Kohli"
+USER_AGENT = "Virat"
 REFERER    = "https://www.hotstar.com/"
 ORIGIN     = "https://www.hotstar.com"
 TIMEOUT    = 15
