@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (5 channels) =====
+#===== Fancode | Sportlink (6 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Sunday, 11 October 2026 at 6:35:21 am
+#DATE:- Sunday, 11 October 2026 at 6:42:20 am
 
 #EXTINF:-1 tvg-id="4249663" tvg-name="Tasmania Vs New South Wales @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Tasmania Vs New South Wales
 https://dai-fancode.pages.dev/mumbai/4249663_english_hls_8e2773aae917341_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -10,27 +10,30 @@ https://dai-fancode.pages.dev/mumbai/4249663_english_hls_8e2773aae917341_1ta-di_
 #EXTINF:-1 tvg-id="4249745" tvg-name="Saudi Arabia Vs Hong Kong, China @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249745_53092_HK_SDA_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Saudi Arabia Vs Hong Kong, China
 https://dai-fancode.pages.dev/mumbai/4249745_english_hls_48460d7a6f7842_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4249746" tvg-name="Malaysia Vs Maldives @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249746_53092_MAS_MDV_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Malaysia Vs Maldives
+#EXTINF:-1 tvg-id="4249746" tvg-name="Maldives Vs Malaysia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249746_53092_MAS_MDV_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Maldives Vs Malaysia
 https://dai-fancode.pages.dev/mumbai/4249746_english_hls_033169b72934550_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4249747" tvg-name="Singapore Vs China @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249747_53092_CHN_SIN_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Singapore Vs China
 https://dai-fancode.pages.dev/mumbai/4249747_english_hls_c202f0037768264_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="139977" tvg-name="Indonesia Gp @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MotoGP_FC-Web.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Indonesia Gp
+https://dai-fancode.pages.dev/mumbai/139977_english_hls_a73d98250051778_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #===== SonyLIV | Sportlink (5 channels) =====
 #EXTINF:-1 tvg-name="UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [ENG] - UFC Fight Night - Allen vs Duncan @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [ENG] - UFC Fight Night - Allen vs Duncan
-https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791723862~acl=/*~id=96679787090044377765132872755609~hmac=b392b290fd9332b4d49185151c8c87b5d97b736241def9566dde83944b811217
+https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791724469~acl=/*~id=79211349983904419513896555558956~hmac=f2bc98c81bdaa43a965a5c2710b074ef8f5a84fe555e2b8d55f7c81e451302d2
 
 #EXTINF:-1 tvg-name="UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [HIN] - UFC Fight Night - Allen vs Duncan @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [HIN] - UFC Fight Night - Allen vs Duncan
-https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791723862~acl=/*~id=96679787090044377765132872755609~hmac=b392b290fd9332b4d49185151c8c87b5d97b736241def9566dde83944b811217
+https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791724469~acl=/*~id=79211349983904419513896555558956~hmac=f2bc98c81bdaa43a965a5c2710b074ef8f5a84fe555e2b8d55f7c81e451302d2
 
 #EXTINF:-1 tvg-name="UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [TAM] - UFC Fight Night - Allen vs Duncan @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [TAM] - UFC Fight Night - Allen vs Duncan
-https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791723862~acl=/*~id=96679787090044377765132872755609~hmac=b392b290fd9332b4d49185151c8c87b5d97b736241def9566dde83944b811217
+https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791724469~acl=/*~id=79211349983904419513896555558956~hmac=f2bc98c81bdaa43a965a5c2710b074ef8f5a84fe555e2b8d55f7c81e451302d2
 
 #EXTINF:-1 tvg-name="UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [TEL] - UFC Fight Night - Allen vs Duncan @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [TEL] - UFC Fight Night - Allen vs Duncan
-https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFCF1010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791723862~acl=/*~id=96679787090044377765132872755609~hmac=b392b290fd9332b4d49185151c8c87b5d97b736241def9566dde83944b811217
+https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFCF1010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791724469~acl=/*~id=79211349983904419513896555558956~hmac=f2bc98c81bdaa43a965a5c2710b074ef8f5a84fe555e2b8d55f7c81e451302d2
 
 #EXTINF:-1 tvg-name="UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [KAN] - UFC Fight Night - Allen vs Duncan @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [KAN] - UFC Fight Night - Allen vs Duncan
-https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791723862~acl=/*~id=96679787090044377765132872755609~hmac=b392b290fd9332b4d49185151c8c87b5d97b736241def9566dde83944b811217
+https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791724469~acl=/*~id=79211349983904419513896555558956~hmac=f2bc98c81bdaa43a965a5c2710b074ef8f5a84fe555e2b8d55f7c81e451302d2
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -7946,11 +7949,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69,fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791676888~exp=1791680488~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=332063a7b6d25a7abc3b04ea0567ecf2a7d8dd1188f224b14f4cba640fe1f61d
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791680385~exp=1791683985~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=cf2258b19957a466fdc7e4ecb3cd8d3c82c8c2f6efa9d3a64f0d859c95d21d44
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791676888~exp=1791680488~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=332063a7b6d25a7abc3b04ea0567ecf2a7d8dd1188f224b14f4cba640fe1f61d
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791676888~exp=1791680488~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=332063a7b6d25a7abc3b04ea0567ecf2a7d8dd1188f224b14f4cba640fe1f61d"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791680385~exp=1791683985~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=cf2258b19957a466fdc7e4ecb3cd8d3c82c8c2f6efa9d3a64f0d859c95d21d44
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791680385~exp=1791683985~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=cf2258b19957a466fdc7e4ecb3cd8d3c82c8c2f6efa9d3a64f0d859c95d21d44"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeYuva_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="441" tvg-name="9x Jhakaas @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xjhakaas.png" group-title="Sportlink I Marathi | Sportlink",9x Jhakaas
@@ -8134,11 +8137,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Marathi_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a,784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791677326~exp=1791680926~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=447ca65d8a8e8caba535f3aea25a308f424d4533d3140bfc9e90e24238975cab
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791680896~exp=1791684496~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=c69cfec849393fb875a835b5d9036269accb0d85ef2130a352e8a972a7f06fb5
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791677326~exp=1791680926~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=447ca65d8a8e8caba535f3aea25a308f424d4533d3140bfc9e90e24238975cab
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791677326~exp=1791680926~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=447ca65d8a8e8caba535f3aea25a308f424d4533d3140bfc9e90e24238975cab"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791680896~exp=1791684496~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=c69cfec849393fb875a835b5d9036269accb0d85ef2130a352e8a972a7f06fb5
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791680896~exp=1791684496~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=c69cfec849393fb875a835b5d9036269accb0d85ef2130a352e8a972a7f06fb5"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi HD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathiHD.png" group-title="Sportlink I Marathi | Sportlink",Zee Marathi HD
@@ -12610,11 +12613,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Janam_Tamil_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ecfc67bf2dd54fa84495c4c299c51ec:85337048d7be42ef66f6198a99376fa7,9ecfc67bf2dd54fa84495c4c299c51ec:85337048d7be42ef66f6198a99376fa7
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791676890~exp=1791680490~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=cdea63710f57d623306a10cf503f6bc2a50f6323d24ff273497bde51d07432a3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791680374~exp=1791683974~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=f01b5c0a17cad56dfbc81f00c688b254b9806dd28012217408bfe5d2b62a7104
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791676890~exp=1791680490~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=cdea63710f57d623306a10cf503f6bc2a50f6323d24ff273497bde51d07432a3
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791676890~exp=1791680490~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=cdea63710f57d623306a10cf503f6bc2a50f6323d24ff273497bde51d07432a3"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791680374~exp=1791683974~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=f01b5c0a17cad56dfbc81f00c688b254b9806dd28012217408bfe5d2b62a7104
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791680374~exp=1791683974~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=f01b5c0a17cad56dfbc81f00c688b254b9806dd28012217408bfe5d2b62a7104"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeThiraiHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3059" tvg-name="Thanthi One @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanti_One.png" group-title="Sportlink I Tamil | Sportlink",Thanthi One
@@ -13295,11 +13298,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTeluguHD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b71f9a5cb8325078bb6b59528b553cc2:fa2c33f8a7d9933a347562bf092a90fe,b71f9a5cb8325078bb6b59528b553cc2:fa2c33f8a7d9933a347562bf092a90fe
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791676888~exp=1791680488~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=b249d25dd28b9ee468f8bb2d94007628ab8689b9a6707ab7871478d27a53238d
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791680369~exp=1791683969~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=530dd8cc1e8d803ab06087c1925cefa1e90db72229d880bce86501c6acdb19f1
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791676888~exp=1791680488~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=b249d25dd28b9ee468f8bb2d94007628ab8689b9a6707ab7871478d27a53238d
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791676888~exp=1791680488~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=b249d25dd28b9ee468f8bb2d94007628ab8689b9a6707ab7871478d27a53238d"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791680369~exp=1791683969~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=530dd8cc1e8d803ab06087c1925cefa1e90db72229d880bce86501c6acdb19f1
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791680369~exp=1791683969~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=530dd8cc1e8d803ab06087c1925cefa1e90db72229d880bce86501c6acdb19f1"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1799" tvg-name="Studio Yuva Alpha @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="Sportlink I Telugu | Sportlink",Studio Yuva Alpha
