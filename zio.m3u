@@ -6593,11 +6593,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamilHD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a,784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791713278~exp=1791716878~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=845e16308b93bc92e39c8dd93d71ac7ae67de4fe6fa294c2a4b798c26a03a8c2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791716889~exp=1791720489~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=d3360bb2cca4baccba1f3eaf9a7efec72993e46397946bc8c722633c715820a9
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791713278~exp=1791716878~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=845e16308b93bc92e39c8dd93d71ac7ae67de4fe6fa294c2a4b798c26a03a8c2
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791713278~exp=1791716878~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=845e16308b93bc92e39c8dd93d71ac7ae67de4fe6fa294c2a4b798c26a03a8c2"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791716889~exp=1791720489~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=d3360bb2cca4baccba1f3eaf9a7efec72993e46397946bc8c722633c715820a9
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791716889~exp=1791720489~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=d3360bb2cca4baccba1f3eaf9a7efec72993e46397946bc8c722633c715820a9"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1359" tvg-name="Big Magic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BigMagic.png" group-title="Sportlink I Entertainment",Big Magic
