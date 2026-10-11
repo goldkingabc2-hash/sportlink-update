@@ -1,17 +1,14 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (13 channels) =====
+#===== Fancode | Sportlink (12 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Sunday, 11 October 2026 at 3:28:15 pm
+#DATE:- Sunday, 11 October 2026 at 3:49:11 pm
 
 #EXTINF:-1 tvg-id="4249693" tvg-name="Bangladesh Vs Afghanistan @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Bangladesh Vs Afghanistan
 https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b69428_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4249781" tvg-name="Australia Vs South Africa @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Australia Vs South Africa
 https://dai-fancode.pages.dev/mumbai/4249781_english_hls_6c802c64b112413_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250150" tvg-name="Bangladesh Women Vs Australia Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-BAN_ODI_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Bangladesh Women Vs Australia Women
-https://dai-fancode.pages.dev/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250114" tvg-name="Nepal Vs Canada @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250114_53106_CAN_NEP_fc-App.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Nepal Vs Canada
 https://dai-fancode.pages.dev/mumbai/4250114_english_hls_59cf06134d58578_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -8065,11 +8062,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Marathi_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a,784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791709609~exp=1791713209~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=255644d02bf2e4572503531096180e46ea2a1b1429ceec85aa72209d2a8a7760
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791713278~exp=1791716878~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=845e16308b93bc92e39c8dd93d71ac7ae67de4fe6fa294c2a4b798c26a03a8c2
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791709609~exp=1791713209~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=255644d02bf2e4572503531096180e46ea2a1b1429ceec85aa72209d2a8a7760
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791709609~exp=1791713209~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=255644d02bf2e4572503531096180e46ea2a1b1429ceec85aa72209d2a8a7760"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791713278~exp=1791716878~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=845e16308b93bc92e39c8dd93d71ac7ae67de4fe6fa294c2a4b798c26a03a8c2
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791713278~exp=1791716878~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=845e16308b93bc92e39c8dd93d71ac7ae67de4fe6fa294c2a4b798c26a03a8c2"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi HD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathiHD.png" group-title="Sportlink I Marathi | Sportlink",Zee Marathi HD
