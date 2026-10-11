@@ -53,11 +53,11 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=509216860f8e594aaf7e921296f53851:536df1e35e2bb055be0117b51db8139c,509216860f8e594aaf7e921296f53851:536df1e35e2bb055be0117b51db8139c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791687989~exp=1791691589~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=cc02e26267f168ef4bdbd30268f2368e0cc54d4e3a9a7d41e677179200e25683
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791691488~exp=1791695088~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=ed053e8afe40b1e9752691d00419e6647aa434f8409288c059ddc465d6f401e5
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791687989~exp=1791691589~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=cc02e26267f168ef4bdbd30268f2368e0cc54d4e3a9a7d41e677179200e25683
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791687989~exp=1791691589~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=cc02e26267f168ef4bdbd30268f2368e0cc54d4e3a9a7d41e677179200e25683"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791691488~exp=1791695088~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=ed053e8afe40b1e9752691d00419e6647aa434f8409288c059ddc465d6f401e5
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791691488~exp=1791695088~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=ed053e8afe40b1e9752691d00419e6647aa434f8409288c059ddc465d6f401e5"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkies_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Sportlink I Movies",Star Gold HD
@@ -805,11 +805,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95c378d17d3d5bbabf9ec086820ece00:dbbce65eaf9673918703d3bcb3131b42,95c378d17d3d5bbabf9ec086820ece00:dbbce65eaf9673918703d3bcb3131b42
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791687989~exp=1791691589~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=e8babe3b7090a1a60a6fd7f732d6989ea64c475b314b05794323e519e80f4928
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791691488~exp=1791695088~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=79a5544b7cc2b33ec6ff9ff1fcff784ad5297366bb49ae9ce6d982bea79b9a52
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791687989~exp=1791691589~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=e8babe3b7090a1a60a6fd7f732d6989ea64c475b314b05794323e519e80f4928
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791687989~exp=1791691589~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=e8babe3b7090a1a60a6fd7f732d6989ea64c475b314b05794323e519e80f4928"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791691488~exp=1791695088~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=79a5544b7cc2b33ec6ff9ff1fcff784ad5297366bb49ae9ce6d982bea79b9a52
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791691488~exp=1791695088~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=79a5544b7cc2b33ec6ff9ff1fcff784ad5297366bb49ae9ce6d982bea79b9a52"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathi_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="457" tvg-name="Jalsha Movies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Sportlink I Bengali",Jalsha Movies HD
@@ -6593,11 +6593,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamilHD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a,784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791688076~exp=1791691676~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=d0890af671ddf5ea9ee17669f35158b834f9cf110d0ae667169dc8244e31c32b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791691697~exp=1791695297~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=9db29191417cc35a50e555cca4077aae2fd1169d609a8135d5d45774de63686b
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791688076~exp=1791691676~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=d0890af671ddf5ea9ee17669f35158b834f9cf110d0ae667169dc8244e31c32b
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791688076~exp=1791691676~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=d0890af671ddf5ea9ee17669f35158b834f9cf110d0ae667169dc8244e31c32b"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791691697~exp=1791695297~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=9db29191417cc35a50e555cca4077aae2fd1169d609a8135d5d45774de63686b
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791691697~exp=1791695297~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=9db29191417cc35a50e555cca4077aae2fd1169d609a8135d5d45774de63686b"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1359" tvg-name="Big Magic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BigMagic.png" group-title="Sportlink I Entertainment",Big Magic
