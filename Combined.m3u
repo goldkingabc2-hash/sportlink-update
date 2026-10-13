@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (6 channels) =====
+#===== Fancode | Sportlink (7 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Tuesday, 13 October 2026 at 6:49:08 pm
+#DATE:- Tuesday, 13 October 2026 at 7:07:10 pm
 
 #EXTINF:-1 tvg-id="4249693" tvg-name="Bangladesh Vs Afghanistan @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_6518.jpeg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Bangladesh Vs Afghanistan
 https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b654_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -16,33 +16,42 @@ https://dai-fancode.pages.dev/mumbai/4248708_english_hls_019a87d7c041638_1ta-di_
 #EXTINF:-1 tvg-id="4248709" tvg-name="Cong An Ha Noi Vs Kashima Antlers @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248709_53053_CAH_ANL_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Cong An Ha Noi Vs Kashima Antlers
 https://dai-fancode.pages.dev/mumbai/4248709_english_hls_d11a1696eb64694_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4248975" tvg-name="East Bengal Fc Vs Al Shorta @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248975_53057_EBFC_SHR_fc-web_1789025066366.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | East Bengal Fc Vs Al Shorta
+https://dai-fancode.pages.dev/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #EXTINF:-1 tvg-id="4248836" tvg-name="World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | World Feed
 https://dai-fancode.pages.dev/mumbai/4248836_english_hls_60e959b67554346_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (3 channels) =====
+#===== SonyLIV | Sportlink (5 channels) =====
 #EXTINF:-1 tvg-name="Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENG] - Volleyball Championship League 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENG] - Volleyball Championship League 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791941225~acl=/*~id=73215428919559096178952104124373~hmac=06514794c8bb4cf496cc8f910a7735df8848a112549ad21a1b603b3ceef80d32
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791941832~acl=/*~id=21082727327645133187730408536893~hmac=ff72784e34fcbcdc463e1d64197936df00ee0585cca3aec8c73156c1eb699c3b
 
 #EXTINF:-1 tvg-name="Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [HIN] - Volleyball Championship League 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [HIN] - Volleyball Championship League 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791941225~acl=/*~id=73215428919559096178952104124373~hmac=06514794c8bb4cf496cc8f910a7735df8848a112549ad21a1b603b3ceef80d32
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791941832~acl=/*~id=21082727327645133187730408536893~hmac=ff72784e34fcbcdc463e1d64197936df00ee0585cca3aec8c73156c1eb699c3b
+
+#EXTINF:-1 tvg-name="Chero Archers vs Rajputana Royals - 13 Oct 2026 [ENG] - Archery Premier League 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026134/1791662124550703_APL26_Chero_Archers_vs_Rajputana_Royals_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chero Archers vs Rajputana Royals - 13 Oct 2026 [ENG] - Archery Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791941832~acl=/*~id=21082727327645133187730408536893~hmac=ff72784e34fcbcdc463e1d64197936df00ee0585cca3aec8c73156c1eb699c3b
+
+#EXTINF:-1 tvg-name="Villarreal vs Napoli - 13 Oct 2026 [ENG] - UEFA Youth League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025826/179109030000422_UYL26_Villarreal_vs_Napoli_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Villarreal vs Napoli - 13 Oct 2026 [ENG] - UEFA Youth League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791941832~acl=/*~id=21082727327645133187730408536893~hmac=ff72784e34fcbcdc463e1d64197936df00ee0585cca3aec8c73156c1eb699c3b
 
 #EXTINF:-1 tvg-name="Leipzig vs Eindhoven - MD 2 - 13 Oct 2026 [ENG] - UEFA Youth League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025825/17910890252552_UYL26_Leipzig_vs_Eindhoven_MD2_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Leipzig vs Eindhoven - MD 2 - 13 Oct 2026 [ENG] - UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791941225~acl=/*~id=73215428919559096178952104124373~hmac=06514794c8bb4cf496cc8f910a7735df8848a112549ad21a1b603b3ceef80d32
+https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791941832~acl=/*~id=21082727327645133187730408536893~hmac=ff72784e34fcbcdc463e1d64197936df00ee0585cca3aec8c73156c1eb699c3b
 
-#===== Willow | Sportlink (4 channels) =====
+#===== Willow | Sportlink (5 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:13 PM 13-10-2026
+#LAST_UPDATE:07:32 PM 13-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:17
+#LIVE_COUNT:4
+#UPCOMING_COUNT:16
 
 #EXTINF:-1 tvg-id="B0HLG67G7Q" tvg-name="Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/8/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HK14NRTX" tvg-name="World Championship of Legends 2026 - 14th Match -  South Africa Champions vs England Champions @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cdc9cd37-d91c-4bfd-98de-3dca55bce2e8/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",World Championship of Legends 2026 - 14th Match -  South Africa Champions vs England Champions
 #KODIPROP:inputstream=inputstream.adaptive
@@ -56,22 +65,22 @@ https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lln7sjtddj
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd
 
-#===== Prime Video | Sportlink (7 channels) =====
-#PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:07:14 PM 13-10-2026
-#TELEGRAM:https://t.me/livesportsplay
-#OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:8
-#UPCOMING_COUNT:0
-
-#EXTINF:-1 tvg-id="B0HL1539PF" tvg-name="Sri Lanka tour of Pakistan 2026 - 3rd T20I - Pakistan vs Sri Lanka @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.51687d87-e60f-4b13-b24a-cdc87f75cd9c/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Sri Lanka tour of Pakistan 2026 - 3rd T20I - Pakistan vs Sri Lanka
+#EXTINF:-1 tvg-id="B0HL8XQ54M" tvg-name="Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b719baa2-6bec-4a46-8c30-ed697705c000/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/1izizyimsv/out/v1/8e83c58952df4181b17e46dd1253d66e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8d8c7a199d1d3201edcd77ad23a56636:4ef990a3da8025ede81e8b2dbe158eee
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd
+
+#===== Prime Video | Sportlink (8 channels) =====
+#PLAYLIST:Prime Video Free Sports
+#LAST_UPDATE:07:32 PM 13-10-2026
+#TELEGRAM:https://t.me/livesportsplay
+#OWNER:Md Sohanur Rahman Hady
+#LIVE_COUNT:9
+#UPCOMING_COUNT:0
 
 #EXTINF:-1 tvg-id="B0HMKQCPF1" tvg-name="The Morning Drive @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e707c781-44aa-4dab-a90c-e6454efa5d66/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",The Morning Drive
 #KODIPROP:inputstream=inputstream.adaptive
@@ -80,33 +89,47 @@ https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/1izizyims
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HLPY5G25" tvg-name="England Champions vs. South Africa Champions @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f57bef3-940e-4d7b-b385-44f354c6f87f/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",England Champions vs. South Africa Champions
+#EXTINF:-1 tvg-id="B0HL1539PF" tvg-name="Sri Lanka tour of Pakistan 2026 - 3rd T20I - Pakistan vs Sri Lanka @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.51687d87-e60f-4b13-b24a-cdc87f75cd9c/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Sri Lanka tour of Pakistan 2026 - 3rd T20I - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HLG67G7Q" tvg-name="Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ede638607823805e7767784e4558292b:91fccc57c058218c2a22fa21f378a1af
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1izizyimsv/out/v1/8e83c58952df4181b17e46dd1253d66e/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HK14NRTX" tvg-name="World Championship of Legends 2026 - 14th Match -  South Africa Champions vs England Champions @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cdc9cd37-d91c-4bfd-98de-3dca55bce2e8/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",World Championship of Legends 2026 - 14th Match -  South Africa Champions vs England Champions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f68ee17bb04e91269fe9b7aa25638467:ea4b416e8694fa1dcf92e3b4b318c7d8
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HL8XQ54M" tvg-name="Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b719baa2-6bec-4a46-8c30-ed697705c000/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Atlanta Open T20 2026 - 1st Match - ICR Falcons vs All Stars Cardinals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d8c7a199d1d3201edcd77ad23a56636:4ef990a3da8025ede81e8b2dbe158eee
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yoqsehjli4/out/v1/146b94e0275e4876b160c2284c97117b/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HLPY5G25" tvg-name="England Champions vs. South Africa Champions @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f57bef3-940e-4d7b-b385-44f354c6f87f/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",England Champions vs. South Africa Champions
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HLG67G7Q" tvg-name="Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf514cc-bb21-4f3c-900b-065784936f1b/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Afghanistan vs Bangladesh in UAE 2026 - One-off Test - Afghanistan vs Bangladesh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvkvmlaalt/out/v1/5d0ae98a28814b1f92804c8fb583bfcc/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HHP8V73R" tvg-name="Early First Round @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ef4810a-37cb-4865-ad88-2be91fea4d3e/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Early First Round
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 #===== Jio Hotstar | Sportlink (127 channels) =====
 #DATE:- 07-10-2026 23:25
