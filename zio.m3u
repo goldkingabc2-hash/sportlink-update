@@ -113,11 +113,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNTelugu_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a23b609b33e254a48e4fc6fa7af0fd8d:4064c52328bfe9e6008776b48a431e4b,a23b609b33e254a48e4fc6fa7af0fd8d:4064c52328bfe9e6008776b48a431e4b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792000345~exp=1792003945~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=872a57b635de12a04daf3aa7dc2ba5927a3174a0379fb9fefe19bda539e267bd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792003968~exp=1792007568~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=e7e3fc92225f9802680f30787d441ec01c328dfada136b081dc846140e58b841
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792000345~exp=1792003945~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=872a57b635de12a04daf3aa7dc2ba5927a3174a0379fb9fefe19bda539e267bd
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792000345~exp=1792003945~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=872a57b635de12a04daf3aa7dc2ba5927a3174a0379fb9fefe19bda539e267bd"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792003968~exp=1792007568~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=e7e3fc92225f9802680f30787d441ec01c328dfada136b081dc846140e58b841
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792003968~exp=1792007568~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=e7e3fc92225f9802680f30787d441ec01c328dfada136b081dc846140e58b841"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="Sportlink I News",Aaj Tak
@@ -1861,11 +1861,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Kisan_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=648632d8a99d59ef86fd651405ffb587:027c47023b8eb258db20ac6ae7ba46a8
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792000319~exp=1792003919~acl=/bpk-tv/ZeeZing_BTS/WDVLive/*~hmac=7e56338ad0ed5b5af0b701eb428e267ca17bc11f4690c60a9d01d6669f220784
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792003988~exp=1792007588~acl=/bpk-tv/ZeeZing_BTS/WDVLive/*~hmac=8b6205cdbfafba1dfd610854a597124f89a513d1ed06f21f04d0e36ed557f3f1
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792000319~exp=1792003919~acl=/bpk-tv/ZeeZing_BTS/WDVLive/*~hmac=7e56338ad0ed5b5af0b701eb428e267ca17bc11f4690c60a9d01d6669f220784
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792000319~exp=1792003919~acl=/bpk-tv/ZeeZing_BTS/WDVLive/*~hmac=7e56338ad0ed5b5af0b701eb428e267ca17bc11f4690c60a9d01d6669f220784"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792003988~exp=1792007588~acl=/bpk-tv/ZeeZing_BTS/WDVLive/*~hmac=8b6205cdbfafba1dfd610854a597124f89a513d1ed06f21f04d0e36ed557f3f1
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792003988~exp=1792007588~acl=/bpk-tv/ZeeZing_BTS/WDVLive/*~hmac=8b6205cdbfafba1dfd610854a597124f89a513d1ed06f21f04d0e36ed557f3f1"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZing_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xm.png" group-title="Sportlink I Music",9XM
