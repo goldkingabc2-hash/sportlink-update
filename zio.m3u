@@ -2337,11 +2337,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/North_East_Live_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6240ba332285a53a2bb222a6aae85a0:98edf5ea9ede46133e3c710cba89a872,a6240ba332285a53a2bb222a6aae85a0:98edf5ea9ede46133e3c710cba89a872
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791991990~exp=1791995590~acl=/bpk-tv/ZeeTelugu_BTS/WDVLive/*~hmac=e79bfc5d2f815ce1551d5d748a523ba5c1138a429a323cb639d97bd42ba2f31c
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791995588~exp=1791999188~acl=/bpk-tv/ZeeTelugu_BTS/WDVLive/*~hmac=a1017a1016f3f7297cb32583e51d1588090ae7b8bf52341fb32974a186bed410
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791991990~exp=1791995590~acl=/bpk-tv/ZeeTelugu_BTS/WDVLive/*~hmac=e79bfc5d2f815ce1551d5d748a523ba5c1138a429a323cb639d97bd42ba2f31c
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791991990~exp=1791995590~acl=/bpk-tv/ZeeTelugu_BTS/WDVLive/*~hmac=e79bfc5d2f815ce1551d5d748a523ba5c1138a429a323cb639d97bd42ba2f31c"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791995588~exp=1791999188~acl=/bpk-tv/ZeeTelugu_BTS/WDVLive/*~hmac=a1017a1016f3f7297cb32583e51d1588090ae7b8bf52341fb32974a186bed410
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791995588~exp=1791999188~acl=/bpk-tv/ZeeTelugu_BTS/WDVLive/*~hmac=a1017a1016f3f7297cb32583e51d1588090ae7b8bf52341fb32974a186bed410"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTelugu_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="639" tvg-name="Ramdhenu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png" group-title="Sportlink I Assamese",Ramdhenu
@@ -7729,11 +7729,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791992374~exp=1791995974~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=9d4987218b0c5660d9d0747ab41034f8fc7ab5ed958f858374871003d8e688f5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791995864~exp=1791999464~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=32ee40d0ec2f79872e07ee395595a6745a0c78f57cb42a4cc7e58db53264c06c
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791992374~exp=1791995974~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=9d4987218b0c5660d9d0747ab41034f8fc7ab5ed958f858374871003d8e688f5
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791992374~exp=1791995974~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=9d4987218b0c5660d9d0747ab41034f8fc7ab5ed958f858374871003d8e688f5"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791995864~exp=1791999464~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=32ee40d0ec2f79872e07ee395595a6745a0c78f57cb42a4cc7e58db53264c06c
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791995864~exp=1791999464~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=32ee40d0ec2f79872e07ee395595a6745a0c78f57cb42a4cc7e58db53264c06c"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1669" tvg-name="Sun Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Sportlink I Bengali",Sun Bangla
@@ -7937,11 +7937,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBiskope_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4324ba5158d3536fa799f5a21a321bf5:688474553bec43448f55ec88c34c9bb1,4324ba5158d3536fa799f5a21a321bf5:688474553bec43448f55ec88c34c9bb1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791992368~exp=1791995968~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=959dfbe008eefac679ef9da962dea5cbb83a318b2d5d9150dbe62fc5177efcd2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791995855~exp=1791999455~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=37def92bac64e588ea40a56d774df68e42e8eed584644f67022b91a901554bda
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1791992368~exp=1791995968~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=959dfbe008eefac679ef9da962dea5cbb83a318b2d5d9150dbe62fc5177efcd2
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791992368~exp=1791995968~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=959dfbe008eefac679ef9da962dea5cbb83a318b2d5d9150dbe62fc5177efcd2"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791995855~exp=1791999455~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=37def92bac64e588ea40a56d774df68e42e8eed584644f67022b91a901554bda
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791995855~exp=1791999455~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=37def92bac64e588ea40a56d774df68e42e8eed584644f67022b91a901554bda"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeePowerHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1747" tvg-name="India News Gujarat" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Gujarat.png" group-title="Sportlink I Gujarati",India News Gujarat
