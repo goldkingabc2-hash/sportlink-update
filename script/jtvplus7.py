@@ -19,13 +19,15 @@ UPLOAD_TO_GITHUB = True
 def to_base64(text: str) -> str:
     return base64.b64encode(text.encode("utf-8")).decode("ascii")
 
+
 def get_json(url: str) -> Any:
     cache_buster = f"{'&' if '?' in url else '?'}t={int(datetime.now().timestamp() * 1000)}"
     fresh_url = url + cache_buster
     headers = {"Cache-Control": "no-cache", "Pragma": "no-cache"}
-    resp = requests.get(fresh_url, headers=headers)
+    resp = requests.get(fresh_url, headers=headers, timeout=30)
     resp.raise_for_status()
     return resp.json()
+
 
 def split_url_query(url: str) -> tuple:
     parsed = urlparse(url)
@@ -35,7 +37,12 @@ def split_url_query(url: str) -> tuple:
 
 
 def get_normal_cookie() -> str:
-    data = get_json(COOKIE_URL)
+    try:
+        data = get_json(COOKIE_URL)
+    except Exception as e:
+        print(f"⚠️  Could not fetch normal cookie: {e}")
+        return ""
+
     if isinstance(data, str):
         return data
     if isinstance(data, list):
@@ -47,12 +54,27 @@ def get_normal_cookie() -> str:
         return data.get("cookie", "")
     return ""
 
+
 def get_sports_data() -> Dict[str, Any]:
-    data = get_json(SPORTS_COOKIE_URL)
+    try:
+        data = get_json(SPORTS_COOKIE_URL)
+    except Exception as e:
+        print(f"⚠️  Could not fetch sports data: {e}")
+        return {"sportsIds": set(), "sportsCookies": {}}
+
     sports_cookies = {}
-    results = data.get("successful_results", []) + data.get("failed_results", [])
+
+    # Handle both list and dict shapes defensively
+    if isinstance(data, list):
+        results = data
+    elif isinstance(data, dict):
+        results = data.get("successful_results", []) + data.get("failed_results", [])
+    else:
+        results = []
 
     for item in results:
+        if not isinstance(item, dict):
+            continue
         channel_id = item.get("channel_id")
         if not channel_id:
             continue
@@ -105,7 +127,7 @@ def create_channel_entry(channel: Dict[str, Any],
     name = channel.get("name", "")
     logo = channel.get("logo", "")
 
-    # ---- NEW: prefix the group-title with "Sportlink I " ----
+    # Prefix the group-title with "Sportlink I "
     raw_group = channel.get("group") or channel.get("category") or "Other"
     group = f"Sportlink I {raw_group}"
 
@@ -124,11 +146,10 @@ def create_channel_entry(channel: Dict[str, Any],
         lines.append("#KODIPROP:inputstream=inputstream.adaptive")
         lines.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
 
-        # ---- Clearkey handling (ALL pairs on a single comma-separated line) ----
+        # Clearkey handling (ALL pairs on a single comma-separated line)
         clearkey_entries = _collect_clearkey_entries(channel)
         if clearkey_entries:
             lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
-            # Join ALL pairs with commas — duplicates included
             pairs = ",".join(f"{kid}:{key}" for kid, key in clearkey_entries)
             lines.append(
                 f"#KODIPROP:inputstream.adaptive.license_key={pairs}"
@@ -139,7 +160,7 @@ def create_channel_entry(channel: Dict[str, Any],
                 f"#KODIPROP:inputstream.adaptive.license_key={channel['license_url']}"
             )
 
-    # ---- Resolve final URL ----
+    # Resolve final URL
     sports_url = sports_cookies.get(channel_id)
     if sports_url:
         final_url_with_query = sports_url
@@ -152,7 +173,7 @@ def create_channel_entry(channel: Dict[str, Any],
 
     base_url, cookie_query = split_url_query(final_url_with_query)
 
-    # ---- KODIPROP stream_headers ----
+    # KODIPROP stream_headers
     if cookie_query:
         stream_headers = (
             f"User-Agent={USER_AGENT}"
@@ -164,13 +185,13 @@ def create_channel_entry(channel: Dict[str, Any],
             "#KODIPROP:inputstream.adaptive.stream_headers=" + stream_headers
         )
 
-    # ---- VLC-style options ----
+    # VLC-style options
     lines.append(f"#EXTVLCOPT:http-user-agent={USER_AGENT}")
     lines.append(f"#EXTVLCOPT:http-referrer={REFERER}")
     if cookie_query:
         lines.append(f"#EXTVLCOPT:http-cookie={cookie_query}")
 
-    # ---- EXTHTTP JSON blob ----
+    # EXTHTTP JSON blob
     if cookie_query:
         exthttp = {
             "User-Agent": USER_AGENT,
@@ -185,7 +206,12 @@ def create_channel_entry(channel: Dict[str, Any],
 
 
 def generate_m3u() -> str:
-    channels = get_json(CHANNELS_URL)
+    try:
+        channels = get_json(CHANNELS_URL)
+    except Exception as e:
+        print(f"❌ Failed to fetch channels: {e}")
+        raise
+
     normal_cookie = get_normal_cookie()
     sports_data = get_sports_data()
 
@@ -220,7 +246,7 @@ def upload_to_github(content: str) -> bool:
         "Accept": "application/vnd.github.v3+json",
     }
 
-    existing_resp = requests.get(api_url, headers=headers)
+    existing_resp = requests.get(api_url, headers=headers, timeout=30)
     sha = None
     existing_content = ""
     if existing_resp.status_code == 200:
@@ -241,7 +267,7 @@ def upload_to_github(content: str) -> bool:
         "content": to_base64(content),
         "sha": sha,
     }
-    put_resp = requests.put(api_url, headers=headers, json=payload)
+    put_resp = requests.put(api_url, headers=headers, json=payload, timeout=30)
     if not put_resp.ok:
         print(f"❌ GitHub upload failed: {put_resp.status_code} - {put_resp.text}")
         return False
