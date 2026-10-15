@@ -7,8 +7,8 @@ import re
 JSON_URL   = "https://sportlink-jtv.pages.dev/hstar.json"
 OUTPUT     = "tstar.m3u"
 
-# Hardcoded cookie (provided directly)
-COOKIE     = "hdntl=exp=1792176008~acl=%2f*~id=b1273af627f1dc00d6e97d2991bac0ba~data=hdntl~hmac=f038a69031f6cfaf18dbd43a62ab31b20c83151c9e1f3de97c29fb7c97096694"
+
+COOKIE     = "hdntl=exp=1792177960~acl=%2f*~id=fda09ca3277ee6e61131f47f7f2628fd~data=hdntl~hmac=6c4850d14e3f7375f98b13608c4269f0806ebace7f1186ad44a2995aca7e69a2"
 
 USER_AGENT = "Virat"
 REFERER    = "https://www.hotstar.com/"
