@@ -7844,11 +7844,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69,fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792033601~exp=1792037201~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=47798fbff180a0866c87c6b09eef8b14444e1134abf5c99129c2ee2616b0c9ed
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792037136~exp=1792040736~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=cd9d180638241e31cb74a01821333c8129ef2a7d8c38fe513642b11334861312
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792033601~exp=1792037201~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=47798fbff180a0866c87c6b09eef8b14444e1134abf5c99129c2ee2616b0c9ed
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792033601~exp=1792037201~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=47798fbff180a0866c87c6b09eef8b14444e1134abf5c99129c2ee2616b0c9ed"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792037136~exp=1792040736~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=cd9d180638241e31cb74a01821333c8129ef2a7d8c38fe513642b11334861312
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792037136~exp=1792040736~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=cd9d180638241e31cb74a01821333c8129ef2a7d8c38fe513642b11334861312"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeYuva_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="441" tvg-name="9x Jhakaas @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xjhakaas.png" group-title="Sportlink I Marathi | Sportlink",9x Jhakaas
