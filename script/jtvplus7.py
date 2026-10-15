@@ -6,9 +6,9 @@ from typing import Dict, List, Set, Any, Optional
 from datetime import datetime
 from urllib.parse import urlparse, parse_qs, urlunparse
 
-CHANNELS_URL = "https://jjtvxweb.pages.dev/jstr4web.json"
-COOKIE_URL = "https://raw.githubusercontent.com/qwerty180506/json/refs/heads/main/biscuit.json"
-SPORTS_COOKIE_URL = "https://allinonereborn2.online/jtv-fetch/jstarcookie/cookie.json"
+CHANNELS_URL = "https://sportlink-jtv.pages.dev/ztv.json"
+COOKIE_URL = "https://raw.githubusercontent.com/sportlive18/Sportlink-wtf/cookie.json"
+SPORTS_COOKIE_URL = "https://raw.githubusercontent.com/sportlive18/Sportlink-wtf/refs/heads/main/sportcookie.json"
 
 USER_AGENT = "Virat"
 REFERER = "https://www.jiotv.com/"
