@@ -4,9 +4,11 @@ import json
 import re
 
 # ---------- CONFIG ----------
-COOKIE_URL = "https://premiumplugx.com/htt/hot.php?playlist=1"
 JSON_URL   = "https://sportlink-jtv.pages.dev/hstar.json"
 OUTPUT     = "tstar.m3u"
+
+# Hardcoded cookie (provided directly)
+COOKIE     = "hdntl=exp=1792176008~acl=%2f*~id=b1273af627f1dc00d6e97d2991bac0ba~data=hdntl~hmac=f038a69031f6cfaf18dbd43a62ab31b20c83151c9e1f3de97c29fb7c97096694"
 
 USER_AGENT = "Virat"
 REFERER    = "https://www.hotstar.com/"
@@ -28,28 +30,6 @@ def http_get(url, headers=None, timeout=TIMEOUT):
     )
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read().decode("utf-8", errors="ignore")
-
-
-def fetch_cookie(url):
-    text = http_get(url, headers={"User-Agent": "OTT Navigator"})
-
-    m = re.search(r"#EXTVLCOPT:http-cookie=([^\s\r\n]+)", text)
-    if m:
-        return m.group(1).strip()
-
-    m = re.search(r"(hdntl=[^\s\r\n&\"']+)", text)
-    if m:
-        return m.group(1).strip()
-
-    m = re.search(r"Cookie:\s*([^\r\n]+)", text, re.IGNORECASE)
-    if m:
-        return m.group(1).strip()
-
-    stripped = text.strip()
-    if stripped and "=" in stripped and len(stripped) < 4000:
-        return stripped
-
-    raise RuntimeError("Cookie not found in response")
 
 
 def fetch_json(url):
@@ -179,9 +159,8 @@ def generate_m3u(items, cookie, out_file):
 
 def main():
     try:
-        print("-> Fetching cookie ...")
-        cookie = fetch_cookie(COOKIE_URL)
-        print(f"   OK ({len(cookie)} chars)")
+        cookie = COOKIE
+        print(f"-> Using hardcoded cookie ({len(cookie)} chars)")
 
         print("-> Fetching JSON ...")
         data = fetch_json(JSON_URL)
