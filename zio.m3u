@@ -6557,11 +6557,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Marathi_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566,135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792105163~exp=1792108763~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=073e412783392cf93b74eba0de320fa3fd69a8aa0c742a1bc1a6037cd4fa8c3b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792108679~exp=1792112279~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=7babc54d7a24a8b55b50eceaf65017e44a58d09db9cb49482e8e4a42fd91eb5f
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792105163~exp=1792108763~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=073e412783392cf93b74eba0de320fa3fd69a8aa0c742a1bc1a6037cd4fa8c3b
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792105163~exp=1792108763~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=073e412783392cf93b74eba0de320fa3fd69a8aa0c742a1bc1a6037cd4fa8c3b"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792108679~exp=1792112279~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=7babc54d7a24a8b55b50eceaf65017e44a58d09db9cb49482e8e4a42fd91eb5f
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792108679~exp=1792112279~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=7babc54d7a24a8b55b50eceaf65017e44a58d09db9cb49482e8e4a42fd91eb5f"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1354" tvg-name="Zee Telugu HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png" group-title="Sportlink I Telugu",Zee Telugu HD
