@@ -89,11 +89,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f,d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792190852~exp=1792194452~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=d31092b535711ce2ab87878e181193f57c52416bfa34af8e4112403efca39e02
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792194493~exp=1792198093~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=7f3c8858a18d817252a8b81a33539460fe8f9b22b70cf885b56cbe0efa3ff125
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792190852~exp=1792194452~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=d31092b535711ce2ab87878e181193f57c52416bfa34af8e4112403efca39e02
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792190852~exp=1792194452~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=d31092b535711ce2ab87878e181193f57c52416bfa34af8e4112403efca39e02"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792194493~exp=1792198093~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=7f3c8858a18d817252a8b81a33539460fe8f9b22b70cf885b56cbe0efa3ff125
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792194493~exp=1792198093~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=7f3c8858a18d817252a8b81a33539460fe8f9b22b70cf885b56cbe0efa3ff125"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNTelugu.png" group-title="Sportlink I Telugu",Cartoon Network Telugu
@@ -7765,11 +7765,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/C_News_Bharat_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4ca77c81bc556d994f7ecbee3bcbd20:dade64f6771f47a113f6cfdf67606cd0,a4ca77c81bc556d994f7ecbee3bcbd20:dade64f6771f47a113f6cfdf67606cd0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792190864~exp=1792194464~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=0bf1399432592a0dc12334961a314c6c07034439078cdef8ce6210b40887c528
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792194493~exp=1792198093~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=4e13dda88766cef4b05c8c20f5793ca48237ba29dee7d8fad3f289ec24993021
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792190864~exp=1792194464~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=0bf1399432592a0dc12334961a314c6c07034439078cdef8ce6210b40887c528
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792190864~exp=1792194464~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=0bf1399432592a0dc12334961a314c6c07034439078cdef8ce6210b40887c528"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792194493~exp=1792198093~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=4e13dda88766cef4b05c8c20f5793ca48237ba29dee7d8fad3f289ec24993021
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792194493~exp=1792198093~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=4e13dda88766cef4b05c8c20f5793ca48237ba29dee7d8fad3f289ec24993021"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeClassicSD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1692" tvg-name="Badakhabar" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png" group-title="Sportlink I Odia",Badakhabar
