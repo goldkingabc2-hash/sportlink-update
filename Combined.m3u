@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (3 channels) =====
+#===== Fancode | Sportlink (4 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Friday, 16 October 2026 at 1:49:17 pm
+#DATE:- Friday, 16 October 2026 at 2:21:16 pm
 
 #EXTINF:-1 tvg-id="4250221" tvg-name="Tsv Malmsheim Vs Koln Cc @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250221_53117_TSV_KCC_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Tsv Malmsheim Vs Koln Cc
 https://dai-fancode.pages.dev/mumbai/4250221_english_hls_71c004ccba91429_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -10,12 +10,15 @@ https://dai-fancode.pages.dev/mumbai/4250221_english_hls_71c004ccba91429_1ta-di_
 #EXTINF:-1 tvg-id="4248845" tvg-name="World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | World Feed
 https://dai-fancode.pages.dev/mumbai/4248845_english_hls_929e386bb09848_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4249834" tvg-name="Sydney Fc Vs Western Sydney Wanderers @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249834_53101_SYD_SYW_fc-Web_1791982772009.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Sydney Fc Vs Western Sydney Wanderers
+https://dai-fancode.pages.dev/mumbai/4249834_english_hls_40c156343661698_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="DP World India Championship - Day 2 - 16 Oct 2026 [ENG] - DP World Tour @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792045973804742_DP-World_India-Championship_Day2_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", DP World India Championship - Day 2 - 16 Oct 2026 [ENG] - DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792182085~acl=/*~id=83933045258134905940119379131023~hmac=d8f1f4ecfbb837fd2857d01a334e1d6de73c6650c59bc5db381119fe8ff4da39
+https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792183908~acl=/*~id=87504711301480521239696244322071~hmac=c3148dd663c2c59930b41efb7e9211a2aadf9592a6a92a09fa63a72d0166541b
 
 #EXTINF:-1 tvg-name="SJM Macao Open - Day 2 - 16 Oct 2026 [ENG] - Asian Tour 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045162992492_Asian_TOur_SJM_Macao_Open_Day2_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", SJM Macao Open - Day 2 - 16 Oct 2026 [ENG] - Asian Tour 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792182085~acl=/*~id=83933045258134905940119379131023~hmac=d8f1f4ecfbb837fd2857d01a334e1d6de73c6650c59bc5db381119fe8ff4da39
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792183908~acl=/*~id=87504711301480521239696244322071~hmac=c3148dd663c2c59930b41efb7e9211a2aadf9592a6a92a09fa63a72d0166541b
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
