@@ -5537,11 +5537,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=null:null
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792124462~exp=1792146062~acl=/bpk-tv/Maa_Movies_BTS/WDVLive/*~hmac=6940f535b456d732e1b4d684db23daeb088395088d39695ac5cdab0144ce3e68
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792146317~exp=1792167917~acl=/bpk-tv/Maa_Movies_BTS/WDVLive/*~hmac=b7763110940cf6c95166ca4ea0c3dc1064271c8b488319a500e055dc2a8c9f3f
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792124462~exp=1792146062~acl=/bpk-tv/Maa_Movies_BTS/WDVLive/*~hmac=6940f535b456d732e1b4d684db23daeb088395088d39695ac5cdab0144ce3e68
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792124462~exp=1792146062~acl=/bpk-tv/Maa_Movies_BTS/WDVLive/*~hmac=6940f535b456d732e1b4d684db23daeb088395088d39695ac5cdab0144ce3e68"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792146317~exp=1792167917~acl=/bpk-tv/Maa_Movies_BTS/WDVLive/*~hmac=b7763110940cf6c95166ca4ea0c3dc1064271c8b488319a500e055dc2a8c9f3f
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792146317~exp=1792167917~acl=/bpk-tv/Maa_Movies_BTS/WDVLive/*~hmac=b7763110940cf6c95166ca4ea0c3dc1064271c8b488319a500e055dc2a8c9f3f"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1112" tvg-name="Maa HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png" group-title="Sportlink I Telugu",Maa HD
