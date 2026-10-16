@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (6 channels) =====
+#===== Fancode | Sportlink (5 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 17 October 2026 at 12:56:11 am
+#DATE:- Saturday, 17 October 2026 at 2:28:10 am
 
 #EXTINF:-1 tvg-id="4250192" tvg-name="Atlanta Fire Women Vs Seattle Thunders Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250192_53114_AF-W_ST-W_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Atlanta Fire Women Vs Seattle Thunders Women
 https://dai-fancode.pages.dev/mumbai/4250192_english_hls_f9aa34d4e918169_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -16,12 +16,9 @@ https://dai-fancode.pages.dev/mumbai/4247653_english_hls_106ad8d14935645_1ta-di_
 #EXTINF:-1 tvg-id="4249594" tvg-name="Burnley Vs Wolverhampton Wanderers F.c. @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249594_52993_BUR_WOL_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Burnley Vs Wolverhampton Wanderers F.c.
 https://dai-fancode.pages.dev/mumbai/4249594_english_hls_f9bd8b87a579413_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4249994" tvg-name="Leganes Vs Cordoba @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249994_53017_LEG_CDB_FC-Web.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Leganes Vs Cordoba
-https://dai-fancode.pages.dev/mumbai/4249994_english_hls_5ed97ce09c94512_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:02:32 AM 17-10-2026
+#LAST_UPDATE:03:02 AM 17-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
@@ -29,7 +26,7 @@ https://dai-fancode.pages.dev/mumbai/4249994_english_hls_5ed97ce09c94512_1ta-di_
 
 #===== Prime Video | Sportlink (4 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:02:32 AM 17-10-2026
+#LAST_UPDATE:03:02 AM 17-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -47,7 +44,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8ror
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HKYTLWHK" tvg-name="Gloucester Rugby vs Bordeaux-Begles - Rugby @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6c92d504-1773-402a-ae98-441f061dbc8c/23/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video | Sportlink",Gloucester Rugby vs Bordeaux-Begles - Rugby
 #KODIPROP:inputstream=inputstream.adaptive
@@ -5821,11 +5818,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Gyandarshan_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566,135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792180432~exp=1792184032~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=bdecdca8eccafb7827ab0f2014f329ccc6b99c51daf782f2e5c688c7765fc8a8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792183990~exp=1792187590~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=0df5be73e5f62b344f7e8c3724eec4ac36d9d56ba6e6c29172e9e8ab0727995f
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792180432~exp=1792184032~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=bdecdca8eccafb7827ab0f2014f329ccc6b99c51daf782f2e5c688c7765fc8a8
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792180432~exp=1792184032~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=bdecdca8eccafb7827ab0f2014f329ccc6b99c51daf782f2e5c688c7765fc8a8"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792183990~exp=1792187590~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=0df5be73e5f62b344f7e8c3724eec4ac36d9d56ba6e6c29172e9e8ab0727995f
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792183990~exp=1792187590~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=0df5be73e5f62b344f7e8c3724eec4ac36d9d56ba6e6c29172e9e8ab0727995f"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1359" tvg-name="Big Magic @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BigMagic.png" group-title="Sportlink I Entertainment | Sportlink",Big Magic
@@ -12330,11 +12327,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Aastha_Tamil_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ab3810fc9505eaf9121202a5acf3656:eab9ac2b629171ed27c105ea62ea4fda,1ab3810fc9505eaf9121202a5acf3656:eab9ac2b629171ed27c105ea62ea4fda
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792180429~exp=1792184029~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=045589c8432078e7684ca52c529a0d2debd0b2fe8cf694f7495977e5aa83cc73
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792183990~exp=1792187590~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=76a9757bd6eea884fb6e1a62d645eccb2b7ce0d15aa3dbd7d1fd635e199a268c
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792180429~exp=1792184029~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=045589c8432078e7684ca52c529a0d2debd0b2fe8cf694f7495977e5aa83cc73
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792180429~exp=1792184029~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=045589c8432078e7684ca52c529a0d2debd0b2fe8cf694f7495977e5aa83cc73"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792183990~exp=1792187590~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=76a9757bd6eea884fb6e1a62d645eccb2b7ce0d15aa3dbd7d1fd635e199a268c
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792183990~exp=1792187590~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=76a9757bd6eea884fb6e1a62d645eccb2b7ce0d15aa3dbd7d1fd635e199a268c"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamilHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1371" tvg-name="Colors Tamil @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="Sportlink I Tamil | Sportlink",Colors Tamil
