@@ -1,11 +1,14 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (8 channels) =====
+#===== Fancode | Sportlink (9 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Friday, 16 October 2026 at 7:49:14 pm
+#DATE:- Friday, 16 October 2026 at 8:21:18 pm
 
 #EXTINF:-1 tvg-id="4249234" tvg-name="England Champions Vs South Africa Champions @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WCL-match-card-semifinal-1_Mini.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | England Champions Vs South Africa Champions
 https://dai-fancode.pages.dev/mumbai/4249234_english_hls_a20c9caab64583_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249229" tvg-name="Australia Champions Vs West Indies Champions @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WCL_MINI.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Australia Champions Vs West Indies Champions
+https://dai-fancode.pages.dev/mumbai/4249229_english_hls_dd4592751127063_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250191" tvg-name="Hurricanes Women Vs Southern Strikers Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250191_53114_HR-W_SS-W_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Hurricanes Women Vs Southern Strikers Women
 https://dai-fancode.pages.dev/mumbai/4250191_english_hls_e1377b8a5962128_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -27,22 +30,22 @@ https://dai-fancode.pages.dev/mumbai/4250146_english_hls_84b788f22822967_1ta-di_
 
 #===== SonyLIV | Sportlink (6 channels) =====
 #EXTINF:-1 tvg-name="Sporting Club Delhi vs Mohun Bagan Super Giant - 16 Oct 2026 [ENG] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026301/1791961433994998_ISL_SCD_vs_Mohun_Bagan_FC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sporting Club Delhi vs Mohun Bagan Super Giant - 16 Oct 2026 [ENG] - MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792205148~acl=/*~id=94839869919408762257175152249260~hmac=c47c5723418ac722b2fd5b97dd73815a92006cddc444cfba11ae722004fc8e13
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792205757~acl=/*~id=91663404985622854651164934977641~hmac=a14ab7ff618d30d8cd527c56e8bb546f3d3022b1d6c8ece624f09377a579ea0c
 
 #EXTINF:-1 tvg-name="Sporting Club Delhi vs Mohun Bagan Super Giant - 16 Oct 2026 [HIN] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026301/1791961433994998_ISL_SCD_vs_Mohun_Bagan_FC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sporting Club Delhi vs Mohun Bagan Super Giant - 16 Oct 2026 [HIN] - MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792205148~acl=/*~id=94839869919408762257175152249260~hmac=c47c5723418ac722b2fd5b97dd73815a92006cddc444cfba11ae722004fc8e13
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792205757~acl=/*~id=91663404985622854651164934977641~hmac=a14ab7ff618d30d8cd527c56e8bb546f3d3022b1d6c8ece624f09377a579ea0c
 
 #EXTINF:-1 tvg-name="Sporting Club Delhi vs Mohun Bagan Super Giant - 16 Oct 2026 [BEN] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026301/1791961433994998_ISL_SCD_vs_Mohun_Bagan_FC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sporting Club Delhi vs Mohun Bagan Super Giant - 16 Oct 2026 [BEN] - MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792205148~acl=/*~id=94839869919408762257175152249260~hmac=c47c5723418ac722b2fd5b97dd73815a92006cddc444cfba11ae722004fc8e13
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792205757~acl=/*~id=91663404985622854651164934977641~hmac=a14ab7ff618d30d8cd527c56e8bb546f3d3022b1d6c8ece624f09377a579ea0c
 
 #EXTINF:-1 tvg-name="Punjab Aerostrikers vs Haryana Hurricanes - Super 6 - 16 Oct 2026 [ENG] - Volleyball Championship League 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026453/179210216462210_VCL26_super6_Punjab_vs_Haryana_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Punjab Aerostrikers vs Haryana Hurricanes - Super 6 - 16 Oct 2026 [ENG] - Volleyball Championship League 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792205148~acl=/*~id=94839869919408762257175152249260~hmac=c47c5723418ac722b2fd5b97dd73815a92006cddc444cfba11ae722004fc8e13
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792205757~acl=/*~id=91663404985622854651164934977641~hmac=a14ab7ff618d30d8cd527c56e8bb546f3d3022b1d6c8ece624f09377a579ea0c
 
 #EXTINF:-1 tvg-name="Punjab Aerostrikers vs Haryana Hurricanes - Super 6 - 16 Oct 2026 [HIN] - Volleyball Championship League 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026453/179210216462210_VCL26_super6_Punjab_vs_Haryana_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Punjab Aerostrikers vs Haryana Hurricanes - Super 6 - 16 Oct 2026 [HIN] - Volleyball Championship League 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792205148~acl=/*~id=94839869919408762257175152249260~hmac=c47c5723418ac722b2fd5b97dd73815a92006cddc444cfba11ae722004fc8e13
+https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792205757~acl=/*~id=91663404985622854651164934977641~hmac=a14ab7ff618d30d8cd527c56e8bb546f3d3022b1d6c8ece624f09377a579ea0c
 
-#EXTINF:-1 tvg-name="Rajputana Royals vs Chola Chiefs - 16 Oct 2026 [ENG] - Archery Premier League 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959239730579_APL26_Rajputana-Royals-vs-Chola-Chiefs_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Rajputana Royals vs Chola Chiefs - 16 Oct 2026 [ENG] - Archery Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/Archery_1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792205148~acl=/*~id=94839869919408762257175152249260~hmac=c47c5723418ac722b2fd5b97dd73815a92006cddc444cfba11ae722004fc8e13
+#EXTINF:-1 tvg-name="Prithviraj Yodhas vs Chero Archers - 16 Oct 2026 [ENG] - Archery Premier League 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959346936578_APL26_Prithviraj-Yodhas-vs-Chero-Archers_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Prithviraj Yodhas vs Chero Archers - 16 Oct 2026 [ENG] - Archery Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2120300/Archery_1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792205757~acl=/*~id=91663404985622854651164934977641~hmac=a14ab7ff618d30d8cd527c56e8bb546f3d3022b1d6c8ece624f09377a579ea0c
 
 #===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
